@@ -34,9 +34,9 @@ Armed with an insatiable curiosity, I embark on thrilling expeditions to expose 
 If you share a love for security, hacking, or the exciting world of vulnerabilities, feel free to connect with me! Let's exchange knowledge, collaborate on projects, and together, let's shape a safer digital landscape.
 
 📬 Contact Me:
-I'm always open to new ideas, discussions, or collaborations. You can reach me via email at your-email@example.com or find me on Twitter for engaging conversations.
+I'm always open to new ideas, discussions, or collaborations. You can reach me via email at jaredbrts175@gmail.com or find me on Instagram @1_k3ystr0k3r_1 for intresting research.
 
 ⚡ Fun Fact:
 Did you know that hacking was once described as an "ethical chess game"? Just like chess players, ethical hackers navigate through complex systems, anticipating moves and countermoves, all in the pursuit of securing the digital realm.
 
-Remember, it's not about the darkness, but about the light we bring to it. Together, let's make a difference and build a safer future! 💪
+Remember, it's not about the darkness, but about the light we bring to it. Together, let's make a difference and build a safer future! 💪 (Cringe message hey? lmaoooooo)
