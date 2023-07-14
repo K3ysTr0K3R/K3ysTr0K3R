@@ -1,6 +1,4 @@
-🔒 Welcome to my GitHub Bio! 🔍
-
-python
+🔒 Welcome to my GitHub! 
 
 print("Hello, world! I'm @K3ysTr0K3R - your friendly neighborhood ethical hacker/nerd and security researcher!")
 
