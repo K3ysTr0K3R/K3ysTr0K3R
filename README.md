@@ -2,7 +2,7 @@
 
 python
 
-print("Hello, world! I'm @K3ysTr0K3R - your friendly neighborhood ethical hacker and security researcher!")
+print("Hello, world! I'm @K3ysTr0K3R - your friendly neighborhood ethical hacker/nerd and security researcher!")
 
 def about_me():
     interests = ["Security", "Programming", "Vulnerability Hunting", "Exploits", "Recon Tools"]
