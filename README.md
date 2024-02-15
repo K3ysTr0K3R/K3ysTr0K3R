@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=radical)
 
 print("Greetings! I'm @K3ysTr0K3R - an ethical hacker, security researcher, and programmer dedicated to enhancing digital security.")
 
