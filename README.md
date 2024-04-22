@@ -18,8 +18,8 @@ Feel free to reach out via email at jaredbrts175@gmail.com or connect with me on
 
 ![](https://komarev.com/ghpvc/?username=K3ysTr0K3R)
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=dark&hide=issues,contribs&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&theme=dark)](https://github.com/K3ysTr0K3R)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=radical)
 
 ![Stargazers Streak](https://github-readme-streak-stats.herokuapp.com/?user=K3ysTr0K3R&theme=black-ice)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&theme=dark)](https://github.com/K3ysTr0K3R)
