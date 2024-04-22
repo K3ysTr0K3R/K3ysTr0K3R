@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=K3ysTr0K3R)
 # WhoAmI?
 I am a cybersecurity enthusiast and ethical hacker, known online as @K3ysTr0K3R. I develop a lot of exploits for vulns for the sake of research of course.
 
@@ -17,4 +16,5 @@ Feel free to reach out via email at jaredbrts175@gmail.com or connect with me on
 
 # STATS
 
-![GitHub Insights](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=radical)
+![](https://komarev.com/ghpvc/?username=K3ysTr0K3R)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)
