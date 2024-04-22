@@ -15,5 +15,6 @@ Are you passionate about cybersecurity, hacking, or technology? Let's connect!
 # Get in Touch
 Feel free to reach out via email at jaredbrts175@gmail.com or connect with me on Instagram @1_k3ystr0k3r_1. I'm always open to new ideas, discussions, and collaborations.
 
-STATS
+# STATS
+
 ![GitHub Insights](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=radical)
