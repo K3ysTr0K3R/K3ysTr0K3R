@@ -1,5 +1,6 @@
 # 👋 Welcome to my GitHub!
 
+![](https://komarev.com/ghpvc/?username=K3ysTr0K3R)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=radical)
 
 # 📖 About Me
