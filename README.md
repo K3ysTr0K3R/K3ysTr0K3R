@@ -17,4 +17,4 @@ Feel free to reach out via email at jaredbrts175@gmail.com or connect with me on
 # STATS
 
 ![](https://komarev.com/ghpvc/?username=K3ysTr0K3R)
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=cyan&width=500)
