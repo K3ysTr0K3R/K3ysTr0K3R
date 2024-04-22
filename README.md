@@ -20,6 +20,6 @@ Feel free to reach out via email at jaredbrts175@gmail.com or connect with me on
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&theme=dark)](https://github.com/K3ysTr0K3R)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=dark)
 
 ![Stargazers Streak](https://github-readme-streak-stats.herokuapp.com/?user=K3ysTr0K3R&theme=black-ice)
