@@ -16,33 +16,6 @@ Feel free to reach out via email at jaredbrts175@gmail.com or connect with me on
 
 # Exploits Developed
 
-- [CVE-2024-27198](https://github.com/K3ysTr0K3R/CVE-2024-27198-EXPLOIT)
-- [CVE-2024-25600](https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT)
-- [CVE-2024-3273](https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT)
-- [CVE-2023-51467](https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT)
-- [CVE-2023-23752](https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT)
-- [CVE-2023-32315](https://github.com/K3ysTr0K3R/CVE-2023-32315-EXPLOIT)
-- [CVE-2023-43208](https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT)
-- [CVE-2022-33891](https://github.com/K3ysTr0K3R/CVE-2022-33891-EXPLOIT)
-- [CVE-2022-34753](https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT)
-- [CVE-2022-0165](https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT)
-- [CVE-2021-43798](https://github.com/K3ysTr0K3R/CVE-2021-43798-EXPLOIT)
-- [CVE-2021-42013](https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT)
-- [CVE-2021-4191](https://github.com/K3ysTr0K3R/CVE-2021-4191-EXPLOIT)
-- [CVE-2021-34621](https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT)
-- [CVE-2021-22873](https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT)
-- [CVE-2019-15107](https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT)
-- [CVE-2019-17382](https://github.com/K3ysTr0K3R/CVE-2019-17382-EXPLOIT)
-- [CVE-2018-9995](https://github.com/K3ysTr0K3R/CVE-2018-9995-EXPLOIT)
-- [CVE-2017-8225](https://github.com/K3ysTr0K3R/CVE-2017-8225-EXPLOIT)
-- [CVE-2017-7921](https://github.com/K3ysTr0K3R/CVE-2017-7921-EXPLOIT)
-- [CVE-2017-5487](https://github.com/K3ysTr0K3R/CVE-2017-5487-EXPLOIT)
-- [CVE-2015-2166](https://github.com/K3ysTr0K3R/CVE-2015-2166-EXPLOIT)
-- [CVE-2010-4231](https://github.com/K3ysTr0K3R/CVE-2010-4231-EXPLOIT)
-- [CVE-2008-5862](https://github.com/K3ysTr0K3R/CVE-2008-5862-EXPLOIT)
-
-# CVE Exploits by Year
-
 <details>
 <summary><b>2024</b></summary>
 <ul>
