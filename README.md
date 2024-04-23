@@ -17,6 +17,9 @@ Feel free to reach out via email at jaredbrts175@gmail.com or connect with me on
 # Exploits Developed 💣
 
 <details>
+<summary><b>EXPLOITS</b></summary>
+
+<details>
 <summary><b>2024</b></summary>
 <ul>
   <li><a href="https://github.com/K3ysTr0K3R/CVE-2024-27198-EXPLOIT">CVE-2024-27198</a></li>
@@ -98,6 +101,8 @@ Feel free to reach out via email at jaredbrts175@gmail.com or connect with me on
 <ul>
   <li><a href="https://github.com/K3ysTr0K3R/CVE-2008-5862-EXPLOIT">CVE-2008-5862</a></li>
 </ul>
+</details>
+
 </details>
 
 # STATS 📊
