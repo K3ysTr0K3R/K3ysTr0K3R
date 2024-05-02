@@ -69,6 +69,7 @@ Feel free to reach out via email at jaredbrts175@gmail.com or connect with me on
 <details>
 <summary><b>2018</b></summary>
 <ul>
+  <li><a href="https://github.com/K3ysTr0K3R/CVE-2018-14847-EXPLOIT">CVE-2018-14847</a></li>
   <li><a href="https://github.com/K3ysTr0K3R/CVE-2018-9995-EXPLOIT">CVE-2018-9995</a></li>
 </ul>
 </details>
