@@ -24,6 +24,7 @@ Feel free to reach out via email at jaredbrts175@gmail.com or connect with me on
 <ul>
   <li><a href="https://github.com/K3ysTr0K3R/CVE-2024-27198-EXPLOIT">CVE-2024-27198</a></li>
   <li><a href="https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT">CVE-2024-25600</a></li>
+  <li><a href="https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">CVE-2024-4577</a></li>
   <li><a href="https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT">CVE-2024-3273</a></li>
 </ul>
 </details>
