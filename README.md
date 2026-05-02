@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/9Y3td4v.gif" width="100%" />
+</p>
+
 <h3 align="center">Cybersecurity Researcher • Ethical Hacker • Exploit Developer</h3>
 
 <p align="center">
