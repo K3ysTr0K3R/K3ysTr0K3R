@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/9Y3td4v.gif" width="100%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Digital_rain_animation_medium_letters_clear.gif" width="100%" alt="Matrix digital rain background" />
 </p>
 
 <h3 align="center">Cybersecurity Researcher • Ethical Hacker • Exploit Developer</h3>
