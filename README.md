@@ -25,22 +25,13 @@ Here are some categories of tools I build:
 - Proof-of-concept RCE exploits  
 - Privilege escalation research (Linux/Windows)  
 
-### 🕵️ **OSINT Tools**
-- Social media reconnaissance  
-- Automated information gatherers  
-
-### 🧰 **Utility & Automation Tools**
-- Threaded crawlers  
-- Parameter discovery engines  
-- AI-assisted security automation  
-
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,bash,js,java" /><br>
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,burpsuite,postman,vim" />
+  <img src="https://skillicons.dev/icons?i=python,go,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,vim" />
 </p>
 
 ---
