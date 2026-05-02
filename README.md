@@ -1,18 +1,13 @@
-# WhoAmI? 🕵️‍♂️
-I am a cybersecurity enthusiast and ethical hacker, known online as @K3ysTr0K3R. I develop a lot of exploits for vulns for the sake of research of course.
+<p align="center">
+  <img src="https://i.imgur.com/Oj1QX9K.gif" width="800" alt="Hacker Banner">
+</p>
 
-# My Passions ❤️
-- **Cybersecurity**: Protecting digital assets and uncovering vulnerabilities.
-- **Programming**: Crafting solutions through code for real-world challenges.
-- **Vulnerability Analysis**: Identifying and mitigating risks in systems.
-- **Exploit Development**: Building tools to test and enhance security measures.
-- **Reconnaissance**: Strategizing for effective information gathering.
+<h1 align="center">⚡ @K3ysTr0K3R ⚡</h1>
+<h3 align="center">Cybersecurity Researcher • Exploit Developer • Ethical Hacker • Offensive Toolsmith</h3>
 
-# Let's Connect 🤝
-Are you passionate about cybersecurity, hacking, or technology? Let's connect!
-
-# Get in Touch 📧
-Feel free to reach out via email at jaredbrts175@gmail.com or connect with me on Instagram @1_k3ystr0k3r_1. I'm always open to new ideas, discussions, and collaborations.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Exploit+Developer;Offensive+Security+Researcher;Mass+Scanner+Builder;AI-Enhanced+Security+Tools;Reverse+Engineering+%26+Malware+Analysis;Always+Advancing+%E2%9A%A1">
+</p>
 
 # Exploits Developed 💣
 
