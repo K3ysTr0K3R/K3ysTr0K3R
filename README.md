@@ -47,15 +47,6 @@ Here are some categories of tools I build:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -74,7 +65,7 @@ If you're passionate about the offensive side of security (ethically), let's con
 ## 📬 Contact
 
 - **Email:** jaredbrts175@gmail.com  
-- **Instagram:** [@1_k3ystr0k3r_1](https://instagram.com/1_k3ystr0k3r_1)
+- **Instagram:** [@k3ystr0k3r__1](https://instagram.com/k3ystr0k3r__1)
 
 ---
 
