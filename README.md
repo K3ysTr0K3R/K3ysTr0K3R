@@ -1,13 +1,99 @@
-<p align="center">
-  <img src="https://i.imgur.com/Oj1QX9K.gif" width="800" alt="Hacker Banner">
-</p>
-
-<h1 align="center">⚡ @K3ysTr0K3R ⚡</h1>
-<h3 align="center">Cybersecurity Researcher • Exploit Developer • Ethical Hacker • Offensive Toolsmith</h3>
+<h3 align="center">Cybersecurity Researcher • Ethical Hacker • Exploit Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Exploit+Developer;Offensive+Security+Researcher;Mass+Scanner+Builder;AI-Enhanced+Security+Tools;Reverse+Engineering+%26+Malware+Analysis;Always+Advancing+%E2%9A%A1">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Security+Researcher;Exploit+Developer;Offensive+Tools+Builder;Always+Learning+More+🔍">
 </p>
+
+---
+
+## 👤 About Me
+
+I’m a cybersecurity enthusiast and ethical hacker focused on vulnerability research, exploit development, and building tools that enhance digital security.  
+My approach emphasizes deep analysis, responsible research, and technical precision.
+
+---
+
+## 🔥 Projects
+
+Here are some categories of tools I build:
+
+### 🛡️ **Security & Vulnerability Scanners**
+- Multi-vulnerability scanners (HTTP, RCE, SQLi, etc.)  
+- Mass Internet scanners for services (Apache, WebDAV, RTSP, etc.)  
+
+### 🧪 **Exploit Development**
+- Proof-of-concept RCE exploits  
+- Privilege escalation research (Linux/Windows)  
+
+### 🕵️ **OSINT Tools**
+- Social media reconnaissance  
+- Automated information gatherers  
+
+### 🧰 **Utility & Automation Tools**
+- Threaded crawlers  
+- Parameter discovery engines  
+- AI-assisted security automation  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,bash,js,java" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,burpsuite,postman,vim" />
+</p>
+
+---
+
+## 🏅 Badges
+
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-Researcher-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ethical-Hacker-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploit-Developer-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open--Source-Contributor-green?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&theme=radical" height="170" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K3ysTr0K3R&theme=redical" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&color=red&style=flat-square">
+</p>
+
+---
+
+## 🤝 Collaboration
+
+I’m always open to collaborating with others who share an interest in cybersecurity, exploit development, or security research.  
+If you're passionate about the offensive side of security (ethically), let's connect.
+
+---
+
+## 📬 Contact
+
+- **Email:** jaredbrts175@gmail.com  
+- **Instagram:** [@1_k3ystr0k3r_1](https://instagram.com/1_k3ystr0k3r_1)
+
+---
 
 # Exploits Developed 💣
 
