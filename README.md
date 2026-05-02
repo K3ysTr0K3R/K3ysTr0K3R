@@ -64,14 +64,6 @@ Here are some categories of tools I build:
 
 ---
 
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&color=red&style=flat-square">
-</p>
-
----
-
 ## 🤝 Collaboration
 
 I’m always open to collaborating with others who share an interest in cybersecurity, exploit development, or security research.  
