@@ -8,8 +8,7 @@
 
 ## 👤 About Me
 
-I’m a cybersecurity enthusiast and ethical hacker focused on vulnerability research, exploit development, and building tools that enhance digital security.  
-My approach emphasizes deep analysis, responsible research, and technical precision.
+Hi my full name is Jared Brits, also known by some circles as K3ysTr0K3R. I'm a cybersecurity enthusiast and ethical hacker that focuses on vulnerability research, exploit development, and building security tools for educational purposes.
 
 ---
 
