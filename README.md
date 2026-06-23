@@ -4,10 +4,6 @@
   <img src="https://raw.githubusercontent.com/K3ysTr0K3R/K3ysTr0K3R/main/file_0000000098f071fdab838afe13ada887.png" width="500" alt="K3ysTr0K3R Logo">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Security+Researcher;Exploit+Developer;Offensive+Tools+Builder;Always+Learning+More+🔍">
-</p>
-
 ---
 
 ## 👤 About Me
