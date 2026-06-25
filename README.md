@@ -1,9 +1,5 @@
 <h3 align="center">Cybersecurity Researcher • Ethical Hacker • Exploit Developer</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/K3ysTr0K3R/K3ysTr0K3R/main/file_0000000098f071fdab838afe13ada887.png" width="500" alt="K3ysTr0K3R Logo">
-</p>
-
 ---
 
 ## 👤 About Me
