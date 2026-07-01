@@ -1,31 +1,31 @@
 <div align="center">⚡ K3ysTr0K3R ⚡</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=800&color=FF003C&center=true&vCenter=true&width=950&lines=%24+Booting+Offensive+Security+Stack...;%24+Loading+Exploit+Database...;%24+Initializing+Reverse+Engineering+Modules...;%24+Establishing+Research+Environment...;%24+ACCESS+GRANTED" alt="boot sequence" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=800&color=FF003C&center=true&vCenter=true&width=1100&lines=%24+Booting+Offensive+Security+Stack...;%24+Loading+Exploit+Database...;%24+Initializing+Reverse+Engineering+Modules...;%24+Establishing+Research+Environment...;%24+ACCESS+GRANTED" alt="boot sequence" />
 </p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,35:150000,70:7a0000,100:ff003c&text=CYBERSECURITY%20RESEARCH%20NODE&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=34&desc=Ethical%20Hacking%20•%20Exploit%20Development%20•%20Vulnerability%20Research&descAlignY=57" alt="cyberpunk header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,25:120000,50:2b0000,75:7a0000,100:ff003c&text=CYBERSECURITY%20RESEARCH%20NODE&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=34&desc=Ethical%20Hacking%20•%20Exploit%20Development%20•%20Vulnerability%20Research&descAlignY=58" alt="cyberpunk header" />
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&label=PROFILE+VIEWS&color=ff003c&style=for-the-badge" alt="profile views" />
 </p>---
 
-🌧️ ALIVE MATRIX STATUS
+🌧️ LIVE MATRIX INTERFACE
 
 <p align="center">
-<svg width="980" height="240" viewBox="0 0 980 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated Matrix rain">
+<svg width="100%" height="260" viewBox="0 0 980 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated Matrix rain">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#040404"/>
       <stop offset="100%" stop-color="#000000"/>
     </linearGradient><linearGradient id="redHaze" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0%" stop-color="#ff003c" stop-opacity="0.20"/>
+  <stop offset="0%" stop-color="#ff003c" stop-opacity="0.22"/>
   <stop offset="100%" stop-color="#ff003c" stop-opacity="0"/>
 </linearGradient>
 
 <linearGradient id="matrixGlow" x1="0" y1="0" x2="0" y2="1">
-  <stop offset="0%" stop-color="#b7ffda"/>
-  <stop offset="35%" stop-color="#39ff88"/>
-  <stop offset="70%" stop-color="#00ff88"/>
-  <stop offset="100%" stop-color="#00331a"/>
+  <stop offset="0%" stop-color="#d6ffe8"/>
+  <stop offset="30%" stop-color="#47ff9a"/>
+  <stop offset="65%" stop-color="#00ff88"/>
+  <stop offset="100%" stop-color="#00552b"/>
 </linearGradient>
 
 <filter id="glow">
@@ -37,155 +37,155 @@
 </filter>
 
 <filter id="softRed">
-  <feGaussianBlur stdDeviation="18"/>
+  <feGaussianBlur stdDeviation="16"/>
 </filter>
 
 <clipPath id="screen">
-  <rect x="0" y="0" width="980" height="240" rx="16" ry="16"/>
+  <rect x="0" y="0" width="980" height="260" rx="18" ry="18"/>
 </clipPath>
 
-  </defs>  <rect x="0" y="0" width="980" height="240" rx="16" ry="16" fill="url(#bg)"/>
-  <rect x="0" y="0" width="980" height="240" rx="16" ry="16" fill="url(#redHaze)" filter="url(#softRed)" opacity="0.75"/>  <g clip-path="url(#screen)">
-    <rect x="0" y="0" width="980" height="240" fill="#020202"/><!-- subtle scanlines -->
-<g opacity="0.08">
-  <rect x="0" y="12" width="980" height="1" fill="#ffffff"/>
-  <rect x="0" y="28" width="980" height="1" fill="#ffffff"/>
-  <rect x="0" y="44" width="980" height="1" fill="#ffffff"/>
-  <rect x="0" y="60" width="980" height="1" fill="#ffffff"/>
-  <rect x="0" y="76" width="980" height="1" fill="#ffffff"/>
-  <rect x="0" y="92" width="980" height="1" fill="#ffffff"/>
-  <rect x="0" y="108" width="980" height="1" fill="#ffffff"/>
-  <rect x="0" y="124" width="980" height="1" fill="#ffffff"/>
-  <rect x="0" y="140" width="980" height="1" fill="#ffffff"/>
-  <rect x="0" y="156" width="980" height="1" fill="#ffffff"/>
-  <rect x="0" y="172" width="980" height="1" fill="#ffffff"/>
-  <rect x="0" y="188" width="980" height="1" fill="#ffffff"/>
-  <rect x="0" y="204" width="980" height="1" fill="#ffffff"/>
-  <rect x="0" y="220" width="980" height="1" fill="#ffffff"/>
+  </defs>  <rect x="0" y="0" width="980" height="260" rx="18" ry="18" fill="url(#bg)"/>
+  <rect x="0" y="0" width="980" height="260" rx="18" ry="18" fill="url(#redHaze)" filter="url(#softRed)" opacity="0.8"/>  <g clip-path="url(#screen)">
+    <rect x="0" y="0" width="980" height="260" fill="#020202"/><g opacity="0.08">
+  <rect x="0" y="10" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="26" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="42" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="58" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="74" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="90" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="106" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="122" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="138" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="154" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="170" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="186" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="202" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="218" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="234" width="980" height="1" fill="#ffffff"/>
 </g>
 
-<!-- moving glitch pulse -->
-<rect x="-140" y="0" width="120" height="240" fill="#ff003c" opacity="0.14">
-  <animate attributeName="x" from="-180" to="1140" dur="7.5s" repeatCount="indefinite"/>
+<rect x="-150" y="0" width="120" height="260" fill="#ff003c" opacity="0.14">
+  <animate attributeName="x" from="-180" to="1160" dur="7.5s" repeatCount="indefinite"/>
 </rect>
 
-<!-- matrix rain columns -->
 <g font-family="JetBrains Mono, Consolas, monospace" font-size="18" filter="url(#glow)">
   <text x="30"  y="-30" fill="url(#matrixGlow)">
-    <animate attributeName="y" from="-40" to="275" dur="3.1s" repeatCount="indefinite"/>
+    <animate attributeName="y" from="-40" to="290" dur="3.1s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.2;1;0.4;1;0.2" dur="1.8s" repeatCount="indefinite"/>
     1010100110010110
   </text>
   <text x="90"  y="-120" fill="#00ff88">
-    <animate attributeName="y" from="-130" to="275" dur="4.2s" repeatCount="indefinite"/>
+    <animate attributeName="y" from="-130" to="290" dur="4.2s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.5;1;0.7;1" dur="2.3s" repeatCount="indefinite"/>
     0101110100011010
   </text>
-  <text x="150" y="-70" fill="#b7ffda">
-    <animate attributeName="y" from="-90" to="275" dur="3.6s" repeatCount="indefinite"/>
+  <text x="150" y="-70" fill="#d6ffe8">
+    <animate attributeName="y" from="-90" to="290" dur="3.6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.4;1;0.3;1;0.4" dur="1.5s" repeatCount="indefinite"/>
     1110010101101001
   </text>
-  <text x="210" y="-160" fill="#39ff88">
-    <animate attributeName="y" from="-170" to="275" dur="4.8s" repeatCount="indefinite"/>
+  <text x="210" y="-160" fill="#47ff9a">
+    <animate attributeName="y" from="-170" to="290" dur="4.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.3;1;0.5;1" dur="2.0s" repeatCount="indefinite"/>
     0011010111100101
   </text>
   <text x="270" y="-95" fill="#00ff88">
-    <animate attributeName="y" from="-110" to="275" dur="3.3s" repeatCount="indefinite"/>
+    <animate attributeName="y" from="-110" to="290" dur="3.3s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.5;1;0.2;1;0.5" dur="1.9s" repeatCount="indefinite"/>
     1011100010110101
   </text>
-  <text x="330" y="-135" fill="#b7ffda">
-    <animate attributeName="y" from="-145" to="275" dur="4.0s" repeatCount="indefinite"/>
+  <text x="330" y="-135" fill="#d6ffe8">
+    <animate attributeName="y" from="-145" to="290" dur="4.0s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.4;1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
     0100101110010110
   </text>
-  <text x="390" y="-50" fill="#39ff88">
-    <animate attributeName="y" from="-60" to="275" dur="3.7s" repeatCount="indefinite"/>
+  <text x="390" y="-50" fill="#47ff9a">
+    <animate attributeName="y" from="-60" to="290" dur="3.7s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.3;1;0.7;1;0.3" dur="1.7s" repeatCount="indefinite"/>
     1101010011101010
   </text>
   <text x="450" y="-140" fill="#00ff88">
-    <animate attributeName="y" from="-150" to="275" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="y" from="-150" to="290" dur="4.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.6;1;0.2;1" dur="2.2s" repeatCount="indefinite"/>
     0110101011001110
   </text>
-  <text x="510" y="-85" fill="#b7ffda">
-    <animate attributeName="y" from="-100" to="275" dur="3.2s" repeatCount="indefinite"/>
+  <text x="510" y="-85" fill="#d6ffe8">
+    <animate attributeName="y" from="-100" to="290" dur="3.2s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.2;1;0.5;1;0.2" dur="1.6s" repeatCount="indefinite"/>
     1010010111010001
   </text>
-  <text x="570" y="-150" fill="#39ff88">
-    <animate attributeName="y" from="-160" to="275" dur="4.9s" repeatCount="indefinite"/>
+  <text x="570" y="-150" fill="#47ff9a">
+    <animate attributeName="y" from="-160" to="290" dur="4.9s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.2;1;0.7;1" dur="2.1s" repeatCount="indefinite"/>
     0011110100101101
   </text>
   <text x="630" y="-60" fill="#00ff88">
-    <animate attributeName="y" from="-75" to="275" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="y" from="-75" to="290" dur="3.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.4;1;0.4;1;0.4" dur="1.8s" repeatCount="indefinite"/>
     1100101101010011
   </text>
-  <text x="690" y="-125" fill="#b7ffda">
-    <animate attributeName="y" from="-140" to="275" dur="4.1s" repeatCount="indefinite"/>
+  <text x="690" y="-125" fill="#d6ffe8">
+    <animate attributeName="y" from="-140" to="290" dur="4.1s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.5;1;0.5;1" dur="2.5s" repeatCount="indefinite"/>
     0101011100110101
   </text>
-  <text x="750" y="-90" fill="#39ff88">
-    <animate attributeName="y" from="-105" to="275" dur="3.8s" repeatCount="indefinite"/>
+  <text x="750" y="-90" fill="#47ff9a">
+    <animate attributeName="y" from="-105" to="290" dur="3.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.3;1;0.8;1;0.3" dur="1.4s" repeatCount="indefinite"/>
     1110100110100101
   </text>
   <text x="810" y="-145" fill="#00ff88">
-    <animate attributeName="y" from="-160" to="275" dur="4.7s" repeatCount="indefinite"/>
+    <animate attributeName="y" from="-160" to="290" dur="4.7s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.6;1;0.4;1" dur="2.0s" repeatCount="indefinite"/>
     0010111010100111
   </text>
-  <text x="870" y="-65" fill="#b7ffda">
-    <animate attributeName="y" from="-80" to="275" dur="3.4s" repeatCount="indefinite"/>
+  <text x="870" y="-65" fill="#d6ffe8">
+    <animate attributeName="y" from="-80" to="290" dur="3.4s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.5;1;0.2;1;0.5" dur="1.9s" repeatCount="indefinite"/>
     1011001011101001
   </text>
 </g>
 
-<!-- center title pulse -->
 <g filter="url(#glow)">
-  <text x="490" y="135" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="28" fill="#ff003c" opacity="0.95">
+  <text x="490" y="148" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="30" fill="#ff003c" opacity="0.95">
     MATRIX LINK ESTABLISHED
     <animate attributeName="opacity" values="0.55;1;0.75;1;0.55" dur="2s" repeatCount="indefinite"/>
   </text>
-  <text x="490" y="164" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#00ff88" opacity="0.8">
+  <text x="490" y="178" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#00ff88" opacity="0.8">
     LIVE CYBERPUNK TELEMETRY • OFFENSIVE SECURITY RESEARCH • ANIMATED RAIN CORE
   </text>
 </g>
 
-  </g>  <!-- frame -->  <rect x="1" y="1" width="978" height="238" rx="15" ry="15" fill="none" stroke="#ff003c" stroke-opacity="0.35" stroke-width="1.5"/>
+  </g>  <rect x="1" y="1" width="978" height="258" rx="17" ry="17" fill="none" stroke="#ff003c" stroke-opacity="0.35" stroke-width="1.5"/>
 </svg>
 </p>---
 
-👤 About Me
+🌐 SYSTEM STATUS
 
-Hi, my full name is Jared Brits, also known in some circles as K3ysTr0K3R.
-
-I am a cybersecurity enthusiast and ethical hacker focused on vulnerability research, exploit development, and building security tools for educational purposes.
-
-My work centers on:
-
-- Vulnerability research
-- Exploit development
-- Security tooling
-- Defensive testing
-- Controlled proof-of-concept research
-- Privilege escalation analysis
-- Attack surface enumeration
-
-I enjoy understanding how systems fail, then turning that knowledge into stronger defenses and better security tooling.
+> identity  : K3ysTr0K3R
+> operator  : Jared Brits
+> role      : Cybersecurity Researcher / Ethical Hacker / Exploit Developer
+> focus     : RCE • PrivEsc • Reverse Engineering • Vulnerability Research
+> mode      : OFFENSIVE SECURITY LAB ACTIVE
+> status    : STABLE // NEON INTERFACE ONLINE
 
 ---
 
-🔥 Projects
+👤 ABOUT
 
-Here are some categories of tools I build:
+Cybersecurity researcher focused on real-world offensive security analysis in controlled environments.
+
+Core Work Areas
+
+- Exploit Development (RCE / PrivEsc / Auth Bypass)
+- Vulnerability Research
+- Security Tooling & Automation
+- Attack Surface Enumeration
+- Defensive Validation & PoC Engineering
+
+---
+
+🔥 PROJECTS
 
 🛡️ Security & Vulnerability Scanners
 
@@ -206,7 +206,7 @@ Here are some categories of tools I build:
 
 ---
 
-🛠️ Tech Stack
+🛠️ TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,bash,c,cpp,linux,docker,git,vim" alt="tech stack" />
@@ -218,7 +218,7 @@ Here are some categories of tools I build:
   <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=ff003c" />
 </p>---
 
-🏅 Badges
+🏅 BADGES
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Researcher-ff003c?style=for-the-badge&labelColor=000000" />
@@ -227,19 +227,40 @@ Here are some categories of tools I build:
   <img src="https://img.shields.io/badge/Open--Source-Contributor-ff003c?style=for-the-badge&labelColor=000000" />
 </p>---
 
-📈 Contribution Graph
+📊 STATISTICS DASHBOARD
 
-<p align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="github stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+    </td>
+  </tr>
+</table><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K3ysTr0K3R&theme=black-ice&hide_border=true" alt="streak stats" />
+</p><p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=K3ysTr0K3R&theme=redical&hide_border=true" alt="activity graph" />
 </p>---
 
-🐍 Contribution Snake
+🐍 CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/K3ysTr0K3R/K3ysTr0K3R/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>---
 
-🤝 Collaboration
+📚 LATEST CVEs / EXPLOITS PUBLISHED
+
+<!-- START_CVE_FEED -->- CVE-2024-10914
+- CVE-2024-27198
+- CVE-2024-25600
+- CVE-2024-4577
+- CVE-2024-3273
+
+<!-- END_CVE_FEED -->---
+
+🤝 COLLABORATION
 
 I’m always open to collaborating with others who share an interest in cybersecurity, exploit development, or security research.
 
@@ -247,20 +268,14 @@ If you're passionate about the offensive side of security in an ethical and resp
 
 ---
 
-📬 Contact
+📬 CONTACT
 
 - Email: jaredbrts175@gmail.com
 - Instagram: "@k3ystr0k3r__1" (https://instagram.com/k3ystr0k3r__1)
 
 ---
 
-📚 Latest CVEs / Exploits Published
-
-<!-- START_CVE_FEED -->⛔ Auto-updating CVE feed not yet injected.
-
-<!-- END_CVE_FEED -->---
-
-Exploits Developed 💣
+EXPLOITS DEVELOPED 💣
 
 <details>
 <summary><b>EXPLOITS</b></summary><details>
@@ -337,21 +352,7 @@ Exploits Developed 💣
 </ul>
 </details></details>---
 
-📊 Stats
-
-<p align="center">
-  <a href="https://github.com/K3ysTr0K3R">
-    <img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&style=for-the-badge" alt="profile views" />
-  </a>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&theme=dark&hide_border=true" alt="top languages" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=dark&hide_border=true" alt="github stats" />
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K3ysTr0K3R&theme=black-ice&hide_border=true" alt="streak stats" />
-</p>---
-
-⚙ Optional GitHub Action: Snake Animation
+⚙ OPTIONAL GITHUB ACTIONS
 
 ".github/workflows/snake.yml"
 
@@ -383,10 +384,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
----
-
-⚙ Optional GitHub Action: CVE Feed Update
 
 ".github/workflows/update-cves.yml"
 
@@ -446,7 +443,7 @@ jobs:
 
 ---
 
-⚡ Footer Signal
+⚡ FOOTER SIGNAL
 
 <div align="center">> SYSTEM OUTCOME: KNOW THE SYSTEM • BREAK THE SYSTEM • IMPROVE THE SYSTEM
 > STATUS: CYBERPUNK INTERFACE ACTIVE
