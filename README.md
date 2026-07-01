@@ -3,12 +3,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=800&color=FF003C&center=true&vCenter=true&width=950&lines=%24+Booting+Offensive+Security+Stack...;%24+Loading+Exploit+Database...;%24+Initializing+Reverse+Engineering+Modules...;%24+Establishing+Research+Environment...;%24+ACCESS+GRANTED" alt="boot sequence" />
 </p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,40:1a0000,70:550000,100:ff003c&text=K3ysTr0K3R&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Researcher%20•%20Ethical%20Hacker%20•%20Exploit%20Developer&descAlignY=58" alt="cyberpunk banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,35:150000,70:7a0000,100:ff003c&text=CYBERSECURITY%20RESEARCH%20NODE&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=34&desc=Ethical%20Hacking%20•%20Exploit%20Development%20•%20Vulnerability%20Research&descAlignY=57" alt="cyberpunk header" />
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&label=PROFILE+VIEWS&color=ff003c&style=for-the-badge" alt="profile views" />
 </p>---
 
-🌧️ MATRIX / SYSTEM STATUS
+🌧️ MATRIX STATUS
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,50:0d0d0d,100:ff003c&text=SYSTEM+ONLINE&fontColor=00ff88&fontSize=30&animation=fadeIn" alt="system online" />
@@ -18,24 +18,25 @@
 
 Hi, my full name is Jared Brits, also known in some circles as K3ysTr0K3R.
 
-I am a cybersecurity enthusiast and ethical hacker focused on vulnerability research, exploit development, and building security tools for educational and research purposes.
+I am a cybersecurity enthusiast and ethical hacker who focuses on vulnerability research, exploit development, and building security tools for educational purposes.
 
 My work centers on:
 
-- Exploit development
 - Vulnerability research
-- Privilege escalation
-- Security automation
+- Exploit development
+- Security tooling
 - Defensive testing
 - Controlled proof-of-concept research
+- Privilege escalation analysis
+- Attack surface enumeration
 
-I like understanding how systems fail, then turning that knowledge into stronger defenses and more reliable security tooling.
+I enjoy understanding how systems fail, then turning that knowledge into stronger defenses and better security tooling.
 
 ---
 
 🔥 Projects
 
-Here are the main categories of tools I build:
+Here are some categories of tools I build:
 
 🛡️ Security & Vulnerability Scanners
 
@@ -56,7 +57,7 @@ Here are the main categories of tools I build:
 
 ---
 
-🧠 Tech Stack
+🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,bash,c,cpp,linux,docker,git,vim" alt="tech stack" />
@@ -71,10 +72,10 @@ Here are the main categories of tools I build:
 🏅 Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Researcher-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ethical-Hacker-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Exploit-Developer-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open--Source-Contributor-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Researcher-ff003c?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Ethical-Hacker-ff003c?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Exploit-Developer-ff003c?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Open--Source-Contributor-ff003c?style=for-the-badge&labelColor=000000" />
 </p>---
 
 📈 Contribution Graph
@@ -91,9 +92,9 @@ Here are the main categories of tools I build:
 
 🤝 Collaboration
 
-I’m always open to collaborating with others who share an interest in cybersecurity, exploit development, and security research.
+I’m always open to collaborating with others who share an interest in cybersecurity, exploit development, or security research.
 
-If you enjoy the offensive side of security in an ethical and responsible way, feel free to connect.
+If you're passionate about the offensive side of security in an ethical and responsible way, let's connect.
 
 ---
 
@@ -201,9 +202,7 @@ Exploits Developed 💣
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=K3ysTr0K3R&theme=black-ice&hide_border=true" alt="streak stats" />
 </p>---
 
-🧬 Optional GitHub Action Snippets
-
-These are the companion workflow files for the animated snake and auto-updating CVE section.
+⚙ Optional GitHub Action: Snake Animation
 
 ".github/workflows/snake.yml"
 
@@ -235,6 +234,10 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+---
+
+⚙ Optional GitHub Action: CVE Feed Update
 
 ".github/workflows/update-cves.yml"
 
@@ -273,6 +276,7 @@ jobs:
           ]
 
           block = "\n".join(f"- {cve}" for cve in cves)
+
           text = re.sub(
               r"<!-- START_CVE_FEED -->.*?<!-- END_CVE_FEED -->",
               f"<!-- START_CVE_FEED -->\n{block}\n<!-- END_CVE_FEED -->",
@@ -293,9 +297,9 @@ jobs:
 
 ---
 
-⚠ System Profile
+⚡ Footer Signal
 
-> identity: K3ysTr0K3R
-> role: Cybersecurity Researcher / Ethical Hacker / Exploit Developer
-> mode: OFFENSIVE SECURITY LAB ACTIVE
-> status: CYBERPUNK INTERFACE ENABLED
+<div align="center">> SYSTEM OUTCOME: KNOW THE SYSTEM • BREAK THE SYSTEM • IMPROVE THE SYSTEM
+> STATUS: CYBERPUNK INTERFACE ACTIVE
+
+</div>
