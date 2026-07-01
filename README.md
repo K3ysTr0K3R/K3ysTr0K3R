@@ -9,14 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&label=PROFILE+VIEWS&color=ff00cc&style=for-the-badge" />
 </p>---
 
-🧬 MATRIX / SYSTEM STATUS
-
-[+] Neural Uplink …………………………… ACTIVE
-[+] Exploit Framework …………………… LOADED
-[+] Reverse Engineering Modules …… READY
-[+] Research Environment ……………… ESTABLISHED
-[+] Firewall ………………………………. BYPASSED
-
 ---
 
 👤 IDENTITY
@@ -24,11 +16,6 @@
 alias:    K3ysTr0K3R
 name:     Jared Brits
 focus:    Vulnerability Research · Exploit Dev · Security Automation
-motto:    "Break it, then build it stronger."
-
-I am a cybersecurity researcher and ethical hacker who thrives on understanding system internals.
-My work turns weaknesses into lessons, and lessons into hardened defences.
-Every tool, every PoC, every scan – all for education and controlled research.
 
 ---
 
