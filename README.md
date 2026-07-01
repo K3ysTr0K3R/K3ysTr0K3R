@@ -8,17 +8,166 @@
   <img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&label=PROFILE+VIEWS&color=ff003c&style=for-the-badge" alt="profile views" />
 </p>---
 
-🌧️ MATRIX STATUS
+🌧️ ALIVE MATRIX STATUS
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,50:0d0d0d,100:ff003c&text=SYSTEM+ONLINE&fontColor=00ff88&fontSize=30&animation=fadeIn" alt="system online" />
+<svg width="980" height="240" viewBox="0 0 980 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated Matrix rain">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#040404"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient><linearGradient id="redHaze" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#ff003c" stop-opacity="0.20"/>
+  <stop offset="100%" stop-color="#ff003c" stop-opacity="0"/>
+</linearGradient>
+
+<linearGradient id="matrixGlow" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#b7ffda"/>
+  <stop offset="35%" stop-color="#39ff88"/>
+  <stop offset="70%" stop-color="#00ff88"/>
+  <stop offset="100%" stop-color="#00331a"/>
+</linearGradient>
+
+<filter id="glow">
+  <feGaussianBlur stdDeviation="2.2" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+<filter id="softRed">
+  <feGaussianBlur stdDeviation="18"/>
+</filter>
+
+<clipPath id="screen">
+  <rect x="0" y="0" width="980" height="240" rx="16" ry="16"/>
+</clipPath>
+
+  </defs>  <rect x="0" y="0" width="980" height="240" rx="16" ry="16" fill="url(#bg)"/>
+  <rect x="0" y="0" width="980" height="240" rx="16" ry="16" fill="url(#redHaze)" filter="url(#softRed)" opacity="0.75"/>  <g clip-path="url(#screen)">
+    <rect x="0" y="0" width="980" height="240" fill="#020202"/><!-- subtle scanlines -->
+<g opacity="0.08">
+  <rect x="0" y="12" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="28" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="44" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="60" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="76" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="92" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="108" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="124" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="140" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="156" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="172" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="188" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="204" width="980" height="1" fill="#ffffff"/>
+  <rect x="0" y="220" width="980" height="1" fill="#ffffff"/>
+</g>
+
+<!-- moving glitch pulse -->
+<rect x="-140" y="0" width="120" height="240" fill="#ff003c" opacity="0.14">
+  <animate attributeName="x" from="-180" to="1140" dur="7.5s" repeatCount="indefinite"/>
+</rect>
+
+<!-- matrix rain columns -->
+<g font-family="JetBrains Mono, Consolas, monospace" font-size="18" filter="url(#glow)">
+  <text x="30"  y="-30" fill="url(#matrixGlow)">
+    <animate attributeName="y" from="-40" to="275" dur="3.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.4;1;0.2" dur="1.8s" repeatCount="indefinite"/>
+    1010100110010110
+  </text>
+  <text x="90"  y="-120" fill="#00ff88">
+    <animate attributeName="y" from="-130" to="275" dur="4.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.5;1;0.7;1" dur="2.3s" repeatCount="indefinite"/>
+    0101110100011010
+  </text>
+  <text x="150" y="-70" fill="#b7ffda">
+    <animate attributeName="y" from="-90" to="275" dur="3.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.3;1;0.4" dur="1.5s" repeatCount="indefinite"/>
+    1110010101101001
+  </text>
+  <text x="210" y="-160" fill="#39ff88">
+    <animate attributeName="y" from="-170" to="275" dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.3;1;0.5;1" dur="2.0s" repeatCount="indefinite"/>
+    0011010111100101
+  </text>
+  <text x="270" y="-95" fill="#00ff88">
+    <animate attributeName="y" from="-110" to="275" dur="3.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.2;1;0.5" dur="1.9s" repeatCount="indefinite"/>
+    1011100010110101
+  </text>
+  <text x="330" y="-135" fill="#b7ffda">
+    <animate attributeName="y" from="-145" to="275" dur="4.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
+    0100101110010110
+  </text>
+  <text x="390" y="-50" fill="#39ff88">
+    <animate attributeName="y" from="-60" to="275" dur="3.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;1;0.7;1;0.3" dur="1.7s" repeatCount="indefinite"/>
+    1101010011101010
+  </text>
+  <text x="450" y="-140" fill="#00ff88">
+    <animate attributeName="y" from="-150" to="275" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.6;1;0.2;1" dur="2.2s" repeatCount="indefinite"/>
+    0110101011001110
+  </text>
+  <text x="510" y="-85" fill="#b7ffda">
+    <animate attributeName="y" from="-100" to="275" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.5;1;0.2" dur="1.6s" repeatCount="indefinite"/>
+    1010010111010001
+  </text>
+  <text x="570" y="-150" fill="#39ff88">
+    <animate attributeName="y" from="-160" to="275" dur="4.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.2;1;0.7;1" dur="2.1s" repeatCount="indefinite"/>
+    0011110100101101
+  </text>
+  <text x="630" y="-60" fill="#00ff88">
+    <animate attributeName="y" from="-75" to="275" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4;1;0.4" dur="1.8s" repeatCount="indefinite"/>
+    1100101101010011
+  </text>
+  <text x="690" y="-125" fill="#b7ffda">
+    <animate attributeName="y" from="-140" to="275" dur="4.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.5;1;0.5;1" dur="2.5s" repeatCount="indefinite"/>
+    0101011100110101
+  </text>
+  <text x="750" y="-90" fill="#39ff88">
+    <animate attributeName="y" from="-105" to="275" dur="3.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;1;0.8;1;0.3" dur="1.4s" repeatCount="indefinite"/>
+    1110100110100101
+  </text>
+  <text x="810" y="-145" fill="#00ff88">
+    <animate attributeName="y" from="-160" to="275" dur="4.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.6;1;0.4;1" dur="2.0s" repeatCount="indefinite"/>
+    0010111010100111
+  </text>
+  <text x="870" y="-65" fill="#b7ffda">
+    <animate attributeName="y" from="-80" to="275" dur="3.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.2;1;0.5" dur="1.9s" repeatCount="indefinite"/>
+    1011001011101001
+  </text>
+</g>
+
+<!-- center title pulse -->
+<g filter="url(#glow)">
+  <text x="490" y="135" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="28" fill="#ff003c" opacity="0.95">
+    MATRIX LINK ESTABLISHED
+    <animate attributeName="opacity" values="0.55;1;0.75;1;0.55" dur="2s" repeatCount="indefinite"/>
+  </text>
+  <text x="490" y="164" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#00ff88" opacity="0.8">
+    LIVE CYBERPUNK TELEMETRY • OFFENSIVE SECURITY RESEARCH • ANIMATED RAIN CORE
+  </text>
+</g>
+
+  </g>  <!-- frame -->  <rect x="1" y="1" width="978" height="238" rx="15" ry="15" fill="none" stroke="#ff003c" stroke-opacity="0.35" stroke-width="1.5"/>
+</svg>
 </p>---
 
 👤 About Me
 
 Hi, my full name is Jared Brits, also known in some circles as K3ysTr0K3R.
 
-I am a cybersecurity enthusiast and ethical hacker who focuses on vulnerability research, exploit development, and building security tools for educational purposes.
+I am a cybersecurity enthusiast and ethical hacker focused on vulnerability research, exploit development, and building security tools for educational purposes.
 
 My work centers on:
 
