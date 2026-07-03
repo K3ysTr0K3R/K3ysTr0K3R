@@ -9,10 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&label=PROFILE+VIEWS&color=ff00cc&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/K3ysTr0K3R/K3ysTr0K3R/main/github-metrics.svg" alt="GitHub Metrics"/>
-</p>
-
 ---
 
 ## About Me
@@ -194,6 +190,14 @@ If you want we can collaborate on some projects together. I'm always open to new
   </a>
 </p><p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffaa&text_color=ffffff" alt="top languages" />
+</p>
+
+---
+
+## Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/K3ysTr0K3R/K3ysTr0K3R/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 ---
