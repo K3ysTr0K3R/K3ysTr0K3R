@@ -13,13 +13,13 @@ About Me
 
 Hi, I'm Jared Brits, better known online as K3ysTr0K3R.
 
-I'm a cybersecurity researcher who enjoys understanding how software breaks just as much as how it works. Most of my time is spent researching vulnerabilities, developing proof-of-concept exploits for publicly disclosed CVEs, and building tools that make security testing and vulnerability validation more practical.
+I'm a cybersecurity researcher who enjoys understanding how software breaks just as much as how it works. Most of my time is spent researching vulnerabilities, developing proof of concept exploits for publicly disclosed CVEs, and building tools that make security testing and vulnerability validation more practical.
 
-I have a particular interest in web application security, exploit development, network reconnaissance, and security automation. Whether I'm writing a scanner, analysing a vulnerability, or creating a PoC, my goal is always the same: to understand the root cause, reproduce the issue responsibly, and help defenders better understand real-world attack techniques.
+I have a particular interest in web application security, exploit development, network reconnaissance, and security automation. Whether I'm writing a scanner, analysing a vulnerability, or creating a PoC, my goal is always the same: to understand the root cause, reproduce the issue responsibly, and help defenders better understand real world attack techniques.
 
-I primarily work with Python, Go, Bash, and Linux, and I enjoy building lightweight tools that solve real security problems. I'm always learning, experimenting, and sharing my work through open-source projects.
+I primarily work with Python, Go, Bash, and Linux, and I enjoy building lightweight tools that solve real security problems. I'm always learning, experimenting, and sharing my work through open source projects.
 
-Outside of writing code, I enjoy collaborating with other researchers, contributing to the security community, and continuously improving my skills through hands-on research.
+Outside of writing code, I enjoy collaborating with other researchers, contributing to the security community, and continuously improving my skills through hands on research.
 
 «Every vulnerability tells a story. My job is to understand it.»
 
