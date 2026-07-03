@@ -11,7 +11,7 @@
 
 ---
 
-About Me
+## About Me
 
 Hi, I'm Jared Brits, better known online as K3ysTr0K3R.
 
@@ -27,7 +27,7 @@ Outside of writing code, I enjoy collaborating with other researchers, contribut
 
 ---
 
-Projects
+## Projects
 
 Category| Description
 Scanners| Multi-vector HTTP, RCE, and SQLi scanners, plus mass service enumeration for Apache, WebDAV, RTSP, and related targets.
@@ -36,13 +36,13 @@ Engineering| Recon automation, validation utilities, and custom penetration test
 
 ---
 
-Disclaimer 
+## Disclaimer 
 
 Remember that everything you see on my repositories, all of these security tools, poc exploits are educational. I make them to raise more awareness about security weaknesses that are out there. Use them responsibly, at your own risk. I take no responsibility on how you decide to use them. I can't make decisions for you.
 
 ---
 
-Technology Stack
+## Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,bash,c,cpp,linux,docker,git,vim&theme=dark" />
@@ -56,7 +56,7 @@ Technology Stack
 
 ---
 
-Professional Focus
+## Professional Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Researcher-ff00cc?style=for-the-badge" />
@@ -67,7 +67,7 @@ Professional Focus
 
 ---
 
-Activity
+## Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=K3ysTr0K3R&theme=github-dark&hide_border=true&color=00ffaa&line=ff00cc&point=ffffff&area=true" alt="activity graph" />
@@ -75,7 +75,7 @@ Activity
 
 ---
 
-Contributions
+## Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/K3ysTr0K3R/K3ysTr0K3R/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -83,13 +83,13 @@ Contributions
 
 ---
 
-Collaboration
+## Collaboration
 
 If you want we can collaborate on some projects together. I'm always open to new ideas we can share with one another.
 
 ---
 
-Contact
+## Contact
 
 <p align="center">
   <a href="mailto:jaredbrts175@gmail.com"><img src="https://img.shields.io/badge/Email-ff00cc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" /></a>
@@ -98,7 +98,7 @@ Contact
 
 ---
 
-Published Exploits
+## Published Exploits
 
 <!-- START_CVE_FEED --><details>
 <summary><b>Full Exploit List</b></summary><details>
@@ -179,7 +179,7 @@ Published Exploits
 
 ---
 
-GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/K3ysTr0K3R">
