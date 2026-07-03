@@ -79,8 +79,7 @@ Contributions
 
 Collaboration
 
-I'm always open to ethical security research, exploit development, and tool building with like-minded individuals.
-If you share the same passion, let's connect.
+If you want we can collaborate on some projects together. I'm always open to new ideas we can share with one another.
 
 ---
 
