@@ -170,7 +170,9 @@ Published Exploits
 </ul>
 </details>
 </details>
-<!-- END_CVE_FEED -->---
+<!-- END_CVE_FEED -->
+
+---
 
 GitHub Statistics
 
@@ -183,7 +185,9 @@ GitHub Statistics
   </a>
 </p><p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffaa&text_color=ffffff" alt="top languages" />
-</p>---
+</p>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=0:000000,50:00ffaa,100:ff00cc&text=END+OF+LINE&fontColor=ffffff&fontSize=18" alt="footer" />
