@@ -9,6 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&label=PROFILE+VIEWS&color=ff00cc&style=for-the-badge" />
 </p>---
 
+---
+
 About Me
 
 Hi, I'm Jared Brits, better known online as K3ysTr0K3R.
