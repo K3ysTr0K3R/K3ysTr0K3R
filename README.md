@@ -36,6 +36,12 @@ Engineering| Recon automation, validation utilities, and custom penetration test
 
 ---
 
+Disclaimer 
+
+Remember that everything you see on my repositories, all of these security tools, poc exploits are educational. I make them to raise more awareness about security weaknesses that are out there. Use them responsibly, at your own risk. I take no responsibility on how you decide to use them. I can't make decisions for you.
+
+---
+
 Technology Stack
 
 <p align="center">
