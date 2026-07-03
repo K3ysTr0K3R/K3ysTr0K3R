@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/ARCH-x86_64-ff00cc?style=for-the-badge&logo=linux&logoColor=white&labelColor=111111" />
   <img src="https://img.shields.io/badge/SHELL-zsh-00ffaa?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=111111" />
   <img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&label=PROFILE+VIEWS&color=ff00cc&style=for-the-badge" />
-</p>---
+</p>
 
 ---
 
@@ -46,7 +46,9 @@ Technology Stack
   <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=00ffaa" />
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=ff00cc" />
   <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=00ffaa" />
-</p>---
+</p>
+
+---
 
 Professional Focus
 
@@ -55,19 +57,25 @@ Professional Focus
   <img src="https://img.shields.io/badge/Ethical-Hacker-00ffaa?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Exploit-Developer-ff00cc?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open--Source-Contributor-00ffaa?style=for-the-badge" />
-</p>---
+</p>
+
+---
 
 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=K3ysTr0K3R&theme=github-dark&hide_border=true&color=00ffaa&line=ff00cc&point=ffffff&area=true" alt="activity graph" />
-</p>---
+</p>
+
+---
 
 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/K3ysTr0K3R/K3ysTr0K3R/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>---
+</p>
+
+---
 
 Collaboration
 
@@ -81,7 +89,9 @@ Contact
 <p align="center">
   <a href="mailto:jaredbrts175@gmail.com"><img src="https://img.shields.io/badge/Email-ff00cc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" /></a>
   <a href="https://instagram.com/k3ystr0k3r__1"><img src="https://img.shields.io/badge/Instagram-00ffaa?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" /></a>
-</p>---
+</p>
+
+---
 
 Published Exploits
 
