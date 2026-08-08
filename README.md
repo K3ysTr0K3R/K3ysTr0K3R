@@ -1,88 +1,111 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=940&lines=K3ysTr0K3R+%7C+Cybersecurity+Researcher;%24+Initializing+Security+Research+Environment...;%24+Loading+Exploit+Database...;%24+Scanning+for+Vulnerabilities...;%24+Access+Granted" alt="typing" />
-</div><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,40:0a0a0a,80:00ffaa,100:ff00cc&text=K3ysTr0K3R&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Researcher%20%7C%20Exploit%20Developer&descAlignY=65&descSize=22" alt="cyberpunk banner" />
-</p><p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00ffaa?style=for-the-badge&logo=matrix&logoColor=white&labelColor=111111" />
-  <img src="https://img.shields.io/badge/ARCH-x86_64-ff00cc?style=for-the-badge&logo=linux&logoColor=white&labelColor=111111" />
-  <img src="https://img.shields.io/badge/SHELL-zsh-00ffaa?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=111111" />
-  <img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&label=PROFILE+VIEWS&color=ff00cc&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=940&lines=K3ysTr0K3R+%7C+Cybersecurity+Researcher;%24+Initializing+Security+Research+Environment...;%24+Loading+Exploit+Database...;%24+Scanning+for+Vulnerabilities...;%24+Access+Granted" alt="typing" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,25:0a0a0a,50:00ffaa,75:ff00cc,100:0a0a0a&text=K3ysTr0K3R&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Researcher%20%7C%20Exploit%20Developer%20%7C%20Security%20Tools&descAlignY=65&descSize=24&descAlign=50" alt="cyberpunk banner" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00ffaa?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/ARCH-x86_64-ff00cc?style=for-the-badge&logo=linux&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/SHELL-zsh-00ffaa?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/THREAT_LEVEL-CRITICAL-ff00cc?style=for-the-badge&logo=shield&logoColor=white&labelColor=0a0a0a" />
 </p>
 
 ---
 
 <div align="center">
 
-# K3ysTr0K3R
+# 🔐 K3ysTr0K3R
 
 ### Security Researcher · Ethical Hacker · Exploit Developer
 
 **Breaking software to understand it. Building tools to make security research practical.**
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-K3ysTr0K3R-181717?style=for-the-badge\&logo=github)](https://github.com/K3ysTr0K3R)
-[![Repositories](https://img.shields.io/badge/Repositories-84-0d1117?style=for-the-badge\&logo=github)](https://github.com/K3ysTr0K3R?tab=repositories)
-[![Followers](https://img.shields.io/badge/Followers-320-0d1117?style=for-the-badge\&logo=github)](https://github.com/K3ysTr0K3R)
-[![Location](https://img.shields.io/badge/South%20Africa-0d1117?style=for-the-badge\&logo=googlemaps\&logoColor=white)](https://github.com/K3ysTr0K3R)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-00ffaa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K3ysTr0K3R)
+[![Twitter/X](https://img.shields.io/badge/X-@K3ystr0K3R__1-ff00cc?style=for-the-badge&logo=x&logoColor=white)](https://x.com/K3ystr0K3R_1)
+[![Instagram](https://img.shields.io/badge/Instagram-@k.3ystr0k3r-00ffaa?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k.3ystr0k3r/)
 
 </div>
 
 ---
 
-## `01` — Research
+## `01` — 📊 Quick Stats
 
-I research vulnerabilities, reproduce security issues, develop proof-of-concept exploits, and build tooling for reconnaissance and security testing.
+<div align="center">
 
-My work sits around:
+| Metric | Value |
+|--------|-------|
+| **Repositories** | 84+ |
+| **Followers** | 320+ |
+| **Contributions** | Research & Exploit Development |
+| **Location** | 🇿🇦 South Africa |
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   VULNERABILITY RESEARCH        EXPLOIT DEVELOPMENT         │
-│                                                             │
-│   RECONNAISSANCE                SECURITY AUTOMATION         │
-│                                                             │
-│   WEB APPLICATION SECURITY      NETWORK SECURITY            │
-│                                                             │
-│   PoC DEVELOPMENT               SECURITY TOOLING             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+</div>
 
-> **Every vulnerability tells a story.
-> My job is to understand it.**
+<div align="center">
+
+### 🎯 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=00ffaa&text_color=00ffaa&icon_color=ff00cc&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=00ffaa&text_color=00ffaa&border_radius=10)
+
+</div>
 
 ---
 
-## `02` — What I Build
+## `02` — 🎯 Research Focus
+
+I research vulnerabilities, reproduce security issues, develop proof-of-concept exploits, and build tooling for reconnaissance and security testing.
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🔍 VULNERABILITY RESEARCH      ⚔️  EXPLOIT DEVELOPMENT     ║
+║                                                              ║
+║   🔎 RECONNAISSANCE              🤖 SECURITY AUTOMATION      ║
+║                                                              ║
+║   🌐 WEB APPLICATION SECURITY    📡 NETWORK SECURITY        ║
+║                                                              ║
+║   💣 POC DEVELOPMENT             🛠️  SECURITY TOOLING        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+> **Understanding the weakness is the first step to fixing it.**
+
+---
+
+## `03` — 🏗️ What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Vulnerability Research
+### 🔬 Vulnerability Research
 
 Research and reproduction of publicly disclosed vulnerabilities.
 
-* CVE analysis
-* Vulnerability validation
-* Proof-of-concept development
-* Attack-surface research
-* Security testing
+- 🎯 CVE analysis
+- ✅ Vulnerability validation
+- 🔧 Proof-of-concept development
+- 🗺️ Attack-surface research
+- 🧪 Security testing
 
 </td>
 <td width="50%" valign="top">
 
-### Security Tooling
+### 🛠️ Security Tooling
 
 Lightweight tools designed to make security research faster.
 
-* Reconnaissance
-* Enumeration
-* Scanning
-* Automation
-* Validation utilities
+- 🔍 Reconnaissance
+- 📋 Enumeration
+- 🔎 Scanning
+- ⚡ Automation
+- ✔️ Validation utilities
 
 </td>
 </tr>
@@ -90,28 +113,28 @@ Lightweight tools designed to make security research faster.
 <tr>
 <td width="50%" valign="top">
 
-### Exploit Development
+### 💣 Exploit Development
 
 Educational PoCs covering different vulnerability classes.
 
-* RCE
-* LFI
-* Authentication bypass
-* Information disclosure
-* User enumeration
+- 💥 Remote Code Execution (RCE)
+- 📂 Local File Inclusion (LFI)
+- 🔓 Authentication Bypass
+- ℹ️ Information Disclosure
+- 👤 User Enumeration
 
 </td>
 <td width="50%" valign="top">
 
-### Engineering
+### ⚙️ Engineering
 
 Turning research ideas into usable security utilities.
 
-* Python
-* Go
-* Bash
-* Linux
-* CLI tooling
+- 🐍 Python
+- 🔵 Go
+- 🖥️ Bash
+- 🐧 Linux
+- 💻 CLI Tooling
 
 </td>
 </tr>
@@ -119,129 +142,130 @@ Turning research ideas into usable security utilities.
 
 ---
 
-## `03` — Selected Research
-
-### CVE Research & PoCs
+## `04` — 🔎 CVE Research & PoCs
 
 A selection of vulnerabilities I've researched and reproduced:
 
-| CVE              | Research                                  |
-| ---------------- | ----------------------------------------- |
-| `CVE-2018-14847` | MikroTik RouterOS Winbox vulnerability    |
-| `CVE-2019-15107` | Webmin Remote Code Execution              |
-| `CVE-2021-42013` | Apache HTTP Server Remote Code Execution  |
-| `CVE-2021-4191`  | GitLab User Enumeration                   |
-| `CVE-2017-8225`  | GoAhead System.ini Information Disclosure |
-| `CVE-2017-5487`  | WordPress User Enumeration                |
-| `CVE-2018-9995`  | DVR Authentication Bypass                 |
-| `CVE-2017-7921`  | Hikvision Authentication Bypass           |
-| `CVE-2024-1561`  | Gradio Arbitrary File Read                |
+| CVE | Vulnerability | Status |
+|-----|---|---|
+| **CVE-2018-14847** | MikroTik RouterOS Winbox RCE | ✅ Published |
+| **CVE-2019-15107** | Webmin Remote Code Execution | ✅ Published |
+| **CVE-2021-42013** | Apache HTTP Server RCE | ✅ Published |
+| **CVE-2021-4191** | GitLab User Enumeration | ✅ Published |
+| **CVE-2017-8225** | GoAhead System.ini Disclosure | ✅ Published |
+| **CVE-2017-5487** | WordPress User Enumeration | ✅ Published |
+| **CVE-2018-9995** | DVR Authentication Bypass | ✅ Published |
+| **CVE-2017-7921** | Hikvision Auth Bypass | ✅ Published |
+| **CVE-2024-1561** | Gradio Arbitrary File Read | ✅ Published |
 
-**Research is published for educational and defensive security purposes.**
+> **Research is published for educational and defensive security purposes.**
 
 ---
 
-## `04` — Featured Work
+## `05` — ⭐ Featured Work
 
 <div align="center">
 
-### `EXPLOIT DEVELOPMENT`
+### `━━━━━━━━━━ EXPLOIT DEVELOPMENT ━━━━━━━━━━`
 
 </div>
 
-**CVE-2019-15107-EXPLOIT**
-Webmin Remote Code Execution PoC.
-
-**CVE-2021-42013-EXPLOIT**
-Apache HTTP Server 2.4.49 / 2.4.50 research PoC.
-
-**CVE-2018-9995-EXPLOIT**
-DVR authentication-bypass research.
-
-**CVE-2017-8225-EXPLOIT**
-GoAhead System.ini information-disclosure PoC.
-
-**CVE-2017-5487-EXPLOIT**
-WordPress user-enumeration research.
-
-[Explore the repositories →](https://github.com/K3ysTr0K3R?tab=repositories)
-
----
-
-## `05` — Arsenal
-
-<div align="center">
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge\&logo=go\&logoColor=00ADD8)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-0d1117?style=for-the-badge\&logo=ruby\&logoColor=CC342D)
-
-### Environment
-
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge\&logo=linux\&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=white)
-
-</div>
-
----
-
-## `06` — Methodology
-
-```text
-RESEARCH
-   │
-   ├── Identify
-   │
-   ▼
-ANALYZE
-   │
-   ├── Understand the root cause
-   │
-   ▼
-REPRODUCE
-   │
-   ├── Build a controlled PoC
-   │
-   ▼
-VALIDATE
-   │
-   ├── Confirm the security impact
-   │
-   ▼
-DOCUMENT
-   │
-   └── Share the findings
+```
+📦 CVE-2019-15107-EXPLOIT
+   └─ Webmin Remote Code Execution PoC
+   
+📦 CVE-2021-42013-EXPLOIT
+   └─ Apache HTTP Server 2.4.49 / 2.4.50 research PoC
+   
+📦 CVE-2018-9995-EXPLOIT
+   └─ DVR authentication-bypass research
+   
+📦 CVE-2017-8225-EXPLOIT
+   └─ GoAhead System.ini information-disclosure PoC
+   
+📦 CVE-2017-5487-EXPLOIT
+   └─ WordPress user-enumeration research
 ```
 
-I care about understanding **why** something works, not simply making an exploit work.
+[⭐ Explore all repositories →](https://github.com/K3ysTr0K3R?tab=repositories)
 
 ---
 
-## `07` — Repository Map
+## `06` — 🎖️ Tech Arsenal
 
-```text
+<div align="center">
+
+### 🔧 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-00ffaa?style=for-the-badge&logo=python&logoColor=0d1117)
+![Go](https://img.shields.io/badge/Go-ff00cc?style=for-the-badge&logo=go&logoColor=0d1117)
+![Bash](https://img.shields.io/badge/Bash-00ffaa?style=for-the-badge&logo=gnubash&logoColor=0d1117)
+![Ruby](https://img.shields.io/badge/Ruby-ff00cc?style=for-the-badge&logo=ruby&logoColor=0d1117)
+
+### 💻 Environment
+
+![Linux](https://img.shields.io/badge/Linux-00ffaa?style=for-the-badge&logo=linux&logoColor=0d1117)
+![Git](https://img.shields.io/badge/Git-ff00cc?style=for-the-badge&logo=git&logoColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-00ffaa?style=for-the-badge&logo=github&logoColor=0d1117)
+
+### 🔐 Security Tools
+
+![Metasploit](https://img.shields.io/badge/Metasploit-ff00cc?style=for-the-badge&logo=metasploit&logoColor=0d1117)
+![Burp Suite](https://img.shields.io/badge/Burp-00ffaa?style=for-the-badge&logo=burpsuite&logoColor=0d1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-ff00cc?style=for-the-badge&logo=wireshark&logoColor=0d1117)
+
+</div>
+
+---
+
+## `07` — 📈 Research Methodology
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  🔍 IDENTIFY                                            │
+│     └─ Discover the vulnerability                      │
+│                                                         │
+│  📊 ANALYZE                                             │
+│     └─ Understand the root cause                       │
+│                                                         │
+│  🏗️  REPRODUCE                                          │
+│     └─ Build a controlled PoC                          │
+│                                                         │
+│  ✅ VALIDATE                                            │
+│     └─ Confirm the security impact                     │
+│                                                         │
+│  📝 DOCUMENT                                            │
+│     └─ Share findings & learnings                      │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+**I care about understanding `WHY` something works, not simply making an exploit work.**
+
+---
+
+## `08` — 📁 Repository Organization
+
+```
 K3ysTr0K3R/
 │
-├── Exploits/
+├── 💣 Exploits/
 │   ├── CVE PoCs
 │   ├── Vulnerability research
 │   └── Exploit development
 │
-├── Recon/
+├── 🔍 Recon/
 │   ├── Network enumeration
 │   ├── Web reconnaissance
 │   └── Service discovery
 │
-├── Security Tools/
+├── 🛠️  Security Tools/
 │   ├── Scanners
 │   ├── Automation
 │   └── Validation
 │
-└── Research/
+└── 📚 Research/
     ├── Experiments
     ├── Security notes
     └── Proofs of concept
@@ -249,84 +273,87 @@ K3ysTr0K3R/
 
 ---
 
-## `08` — GitHub Activity
+## `09` — 📊 Activity & Contributions
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R\&show_icons=true\&hide_border=true\&theme=github_dark\&bg_color=0d1117)
+### 🔥 Contribution Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R\&layout=compact\&hide_border=true\&theme=github_dark\&bg_color=0d1117)
+![K3ysTr0K3R's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=K3ysTr0K3R&theme=github-compact&hide_border=true&area=true&color=00ffaa&line=ff00cc&point=ff00cc&bg_color=0d1117)
 
 </div>
 
 ---
 
-## `09` — Contribution Graph
+## `10` — 💡 Philosophy
 
 <div align="center">
 
-![K3ysTr0K3R's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=K3ysTr0K3R\&theme=github-compact\&hide_border=true\&area=true)
-
-</div>
-
----
-
-## `10` — Philosophy
-
-<div align="center">
-
-> ### `Understand the weakness.`
->
-> ### `Reproduce the behavior.`
->
-> ### `Build the tool.`
->
-> ### `Share the knowledge.`
-
-</div>
-
----
-
-## `11` — Responsible Research
-
-Everything published here is intended for **education, research, vulnerability validation, and defensive security awareness**.
-
-Only test systems you own or have explicit authorization to assess.
-
-Security research is most valuable when it helps people understand how systems fail — and how to make them stronger.
-
----
-
-## `12` — Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-K3ysTr0K3R-181717?style=for-the-badge\&logo=github)](https://github.com/K3ysTr0K3R)
-
-[![Instagram](https://img.shields.io/badge/Instagram-k.3ystr0k3r-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/k.3ystr0k3r/)
-
-[![X](https://img.shields.io/badge/X-@K3ystr0K3R__1-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/K3ystr0K3R_1)
-
-<br>
-
-**Research · Build · Break · Learn**
-
-</div>
-
----
-
-<div align="center">
-
-```text
-────────────────────────────────────────────────────────────
-
-                    K3ysTr0K3R
-
-              Security Researcher
-             Exploit Developer
-              Tool Builder
-
-────────────────────────────────────────────────────────────
 ```
+╔═══════════════════════════════════════════════╗
+║                                               ║
+║  "Understand the weakness."                   ║
+║                                               ║
+║  "Reproduce the behavior."                    ║
+║                                               ║
+║  "Build the tool."                            ║
+║                                               ║
+║  "Share the knowledge."                       ║
+║                                               ║
+╚═══════════════════════════════════════════════╝
+```
+
+**Security research is most valuable when it helps people understand how systems fail — and how to make them stronger.**
+
+</div>
+
+---
+
+## `11` — ⚖️ Responsible Research
+
+Everything published here is intended for:
+
+✅ **Education** — Learning from real-world vulnerabilities  
+✅ **Research** — Advancing cybersecurity knowledge  
+✅ **Validation** — Confirming security issues  
+✅ **Defense** — Strengthening security awareness  
+
+⚠️ **Only test systems you own or have explicit authorization to assess.**
+
+---
+
+## `12` — 🤝 Connect & Collaborate
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-K3ysTr0K3R-00ffaa?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/K3ysTr0K3R)
+[![Twitter/X](https://img.shields.io/badge/X-@K3ystr0K3R__1-ff00cc?style=for-the-badge&logo=x&logoColor=0d1117)](https://x.com/K3ystr0K3R_1)
+[![Instagram](https://img.shields.io/badge/Instagram-@k.3ystr0k3r-00ffaa?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://www.instagram.com/k.3ystr0k3r/)
+
+### 💭 Status
+
+Currently researching new vulnerabilities and building security tooling.
+
+Open for collaboration on **security research** and **exploit development** projects.
+
+---
+
+```
+████████████████████████████████████████████████
+
+        Research · Build · Break · Learn
+
+████████████████████████████████████████████████
+```
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with 💜 and 💚 by K3ysTr0K3R**
+
+*Last Updated: 2026*
 
 </div>
