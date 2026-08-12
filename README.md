@@ -15,105 +15,182 @@
 
 ---
 
-# K3ysTr0K3R
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=1000&lines=K3ysTr0K3R;Cybersecurity+Researcher+%7C+Exploit+Developer;Vulnerability+Research+%7C+Security+Tooling;Breaking+Systems.+Understanding+Weaknesses.+Building+Solutions." alt="K3ysTr0K3R" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,25:1a1a2e,50:00ffaa,75:ff00cc,100:050505&text=K3ysTr0K3R&fontColor=00ffaa&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Exploit%20Developer%20%7C%20Security%20Tools&descAlignY=68&descSize=28&descAlign=50" alt="banner" />
+</div>
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/status-ACTIVE-00ffaa?style=flat-square&logoColor=white)
-![Research](https://img.shields.io/badge/focus-SECURITY_RESEARCH-ff00cc?style=flat-square&logoColor=white)
-![Exploits](https://img.shields.io/badge/PoCs-30+-00ffaa?style=flat-square&logoColor=white)
-
-**Cybersecurity Researcher | Exploit Developer | Security Tooling**
-
-*Breaking systems to understand them. Building tools for better security.*
-
-[GitHub](https://github.com/K3ysTr0K3R) • [Instagram](https://instagram.com/k.3ystr0k3r)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ffaa?style=for-the-badge&logo=matrix&logoColor=white&labelColor=050505)
+![Research](https://img.shields.io/badge/FOCUS-VULNERABILITY%20RESEARCH-ff00cc?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=050505)
+![Exploits](https://img.shields.io/badge/PoCs-30+-00ffaa?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505)
+![Security](https://img.shields.io/badge/THREAT_LEVEL-CRITICAL-ff00cc?style=for-the-badge&logo=shield&logoColor=white&labelColor=050505)
 
 </div>
 
 ---
 
-## About Me
+## 🎯 About Me
 
-I'm **Jared Brits**, a cybersecurity researcher specializing in vulnerability research, proof-of-concept development, and security automation. My approach is methodical: identify → analyze → reproduce → validate → document.
+```
+█████████████████████████████████████████████████████████████
+  I'm Jared Brits — K3ysTr0K3R on the internet
+  
+  SPECIALTY: Breaking systems to understand them
+  FOCUS: Vulnerability research → Exploit development
+  
+  Breaking software down to its core. Understanding weaknesses.
+  Building tools that make security research practical.
+  
+█████████████████████████████████████████████████████████████
+```
 
-Rather than just exploiting vulnerabilities, I focus on understanding **why** they exist and building practical tools that help the security community.
+**Cybersecurity researcher** with deep expertise in vulnerability discovery, proof-of-concept development, and security automation. My methodology is rigorous: **identify → analyze → reproduce → validate → document**.
+
+I don't just exploit vulnerabilities—I understand **why** they exist and build practical tools that move the security community forward.
 
 ---
 
-## Research Areas
-
-| **Vulnerability Research** | Identifying and analyzing security flaws |
-| **Exploit Development** | Creating reliable proof-of-concept exploits |
-| **Network Reconnaissance** | Active and passive intelligence gathering |
-| **Security Tooling** | Building automation for reconnaissance & scanning |
-| **CVE Analysis** | Researching published vulnerabilities at scale |
-| **Web Application Security** | Focused assessment of web-based systems |
-
----
-
-## Core Technologies
+## 🔍 Research Arsenal
 
 <div align="center">
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-00ffaa?style=flat-square&logo=python&logoColor=050505)
-![Go](https://img.shields.io/badge/Go-ff00cc?style=flat-square&logo=go&logoColor=ffffff)
-![Bash](https://img.shields.io/badge/Bash-00ffaa?style=flat-square&logo=gnubash&logoColor=050505)
-![Ruby](https://img.shields.io/badge/Ruby-ff00cc?style=flat-square&logo=ruby&logoColor=ffffff)
-
-**Platform**
-![Linux](https://img.shields.io/badge/Linux-00ffaa?style=flat-square&logo=linux&logoColor=050505)
-![Git](https://img.shields.io/badge/Git-ff00cc?style=flat-square&logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-00ffaa?style=flat-square&logo=github&logoColor=050505)
+```
+┌─────────────────────────────────────────────────────────────┐
+│  01  │  VULNERABILITY RESEARCH        │  Zero-day Discovery  │
+├─────────────────────────────────────────────────────────────┤
+│  02  │  EXPLOIT DEVELOPMENT           │  Reliable PoCs       │
+├─────────────────────────────────────────────────────────────┤
+│  03  │  NETWORK RECONNAISSANCE        │  Intelligence Ops    │
+├─────────────────────────────────────────────────────────────┤
+│  04  │  SECURITY AUTOMATION           │  Scanning Tools      │
+├─────────────────────────────────────────────────────────────┤
+│  05  │  WEB APPLICATION SECURITY      │  Focused Analysis    │
+├─────────────────────────────────────────────────────────────┤
+│  06  │  CVE RESEARCH & ANALYSIS       │  Large-Scale Study   │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## Notable Tools
+## ⚙️ Tech Stack
 
-### **INtrack**
-Internet-scale reconnaissance and vulnerability research platform. Designed for identifying technologies, instances, and potential vulnerabilities across the web.
+<div align="center">
 
-### **CamTRON**
-Fast camera and surveillance device detection scanner. Specialized for identifying exposed imaging devices during authorized security research.
+### 🔧 Languages
+![Python](https://img.shields.io/badge/Python-00ffaa?style=for-the-badge&logo=python&logoColor=050505&labelColor=050505)
+![Go](https://img.shields.io/badge/Go-ff00cc?style=for-the-badge&logo=go&logoColor=ffffff&labelColor=050505)
+![Bash](https://img.shields.io/badge/Bash-00ffaa?style=for-the-badge&logo=gnubash&logoColor=050505&labelColor=050505)
+![Ruby](https://img.shields.io/badge/Ruby-ff00cc?style=for-the-badge&logo=ruby&logoColor=ffffff&labelColor=050505)
 
-### **DroidSniper**
-ADB (Android Debug Bridge) misconfiguration scanner. Detects exposed and improperly configured Android debugging services.
-
----
-
-## Research Highlights
-
-### Recent CVEs (2024)
-- **CVE-2026-24061** — GNU InetUtils telnetd Authentication Bypass
-- **CVE-2024-10914** — Active Exploitation & Analysis
-- **CVE-2024-27198** — Critical Vulnerability PoC
-- **CVE-2024-4577** — PHP Security Bypass
-
-### Notable Historical Research
-- **CVE-2021-42013** — Apache HTTP Server RCE
-- **CVE-2019-15107** — Webmin RCE
-- **CVE-2018-14847** — MikroTik File Read
-- **CVE-2017-7921** — Hikvision Auth Bypass
-
-→ [Full CVE Archive](https://github.com/K3ysTr0K3R?tab=repositories&q=CVE)
-
----
-
-## Research Methodology
+### 🌐 Platform & Tools
+![Linux](https://img.shields.io/badge/Linux-00ffaa?style=for-the-badge&logo=linux&logoColor=050505&labelColor=050505)
+![Git](https://img.shields.io/badge/Git-ff00cc?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=050505)
+![GitHub](https://img.shields.io/badge/GitHub-00ffaa?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-ff00cc?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&labelColor=050505)
 
 ```
-Identify Weakness → Analyze Root Cause → Reproduce Behavior 
-  → Validate Exploit → Document Findings → Publish Research
+EXPLOIT DEV ——— Python | Go | Bash
+AUTOMATION  ——— Bash | Python | Ruby  
+TOOLS       ——— Go | Python | Bash
+RESEARCH    ——— All of the above
 ```
 
-Every exploit is built with **understanding** as the priority, not just functionality.
+</div>
 
 ---
 
-## Statistics
+## 🛠️ Featured Security Tools
+
+<div align="center">
+
+### **INtrack** 🌐
+```
+Internet-scale Reconnaissance & Vulnerability Research Platform
+└─ Identifying technologies, instances, and vulnerabilities at scale
+```
+
+### **CamTRON** 📹
+```
+Fast Camera & Surveillance Device Detection Scanner
+└─ Exposed imaging devices identification during authorized research
+```
+
+### **DroidSniper** 📱
+```
+Misconfigured Android Debug Bridge (ADB) Scanner
+└─ Detecting exposed and improperly configured Android debugging services
+```
+
+[View All Security Tools →](https://github.com/K3ysTr0K3R?tab=repositories&q=tool)
+
+</div>
+
+---
+
+## 🎖️ Research Highlights
+
+<div align="center">
+
+### ⭐ CRITICAL RESEARCH (2024-2026)
+
+[![CVE-2026-24061](https://img.shields.io/badge/CVE--2026--24061-GNU%20InetUtils%20telnetd%20Auth%20Bypass-00ffaa?style=for-the-badge&logo=security&logoColor=050505&labelColor=050505)](https://github.com/K3ysTr0K3R?q=CVE-2026-24061)
+[![CVE-2024-10914](https://img.shields.io/badge/CVE--2024--10914-Critical%20RCE-ff00cc?style=for-the-badge&logoColor=ffffff&labelColor=050505)](https://github.com/K3ysTr0K3R?q=CVE-2024-10914)
+[![CVE-2024-27198](https://img.shields.io/badge/CVE--2024--27198-Exploit%20Available-00ffaa?style=for-the-badge&logoColor=050505&labelColor=050505)](https://github.com/K3ysTr0K3R?q=CVE-2024-27198)
+[![CVE-2024-4577](https://img.shields.io/badge/CVE--2024--4577-PHP%20Security%20Bypass-ff00cc?style=for-the-badge&logoColor=ffffff&labelColor=050505)](https://github.com/K3ysTr0K3R?q=CVE-2024-4577)
+
+### 🏆 HISTORICAL RESEARCH (30+ CVEs Published)
+
+```
+┌────────────────────────────────────────────────────────────┐
+│ CVE-2021-42013  │  Apache HTTP Server RCE                  │
+│ CVE-2019-15107  │  Webmin RCE                              │
+│ CVE-2018-14847  │  MikroTik WinBox File Read               │
+│ CVE-2017-7921   │  Hikvision Authentication Bypass         │
+│ + 26 More...    │  https://github.com/K3ysTr0K3R           │
+└────────────────────────────────────────────────────────────┘
+```
+
+[📊 View Complete CVE Archive →](https://github.com/K3ysTr0K3R?tab=repositories&q=CVE)
+
+</div>
+
+---
+
+## 🔬 Research Methodology
+
+<div align="center">
+
+```
+        IDENTIFY           ANALYZE            REPRODUCE
+           │                  │                   │
+           ▼                  ▼                   ▼
+    ┌────────────┐    ┌────────────┐    ┌────────────┐
+    │ Weakness   │──→ │Root Cause  │──→ │  Behavior  │
+    │ Detection  │    │ Extraction │    │ Simulation │
+    └────────────┘    └────────────┘    └────────────┘
+           ▲                                      │
+           │                                      ▼
+    ┌────────────┐    ┌────────────┐    ┌────────────┐
+    │  Publish   │◄── │ Document   │◄── │ Validate   │
+    │  Research  │    │ Findings   │    │  Exploit   │
+    └────────────┘    └────────────┘    └────────────┘
+
+    PRIORITY: Understanding > Functionality
+    GOAL: Knowledge Transfer to Security Community
+```
+
+</div>
+
+---
+
+## 📊 Statistics & Activity
 
 <div align="center">
 
@@ -141,35 +218,53 @@ Every exploit is built with **understanding** as the priority, not just function
 
 ---
 
-## Responsible Disclosure
-
-All published research is intended for:
-
-```
-✓ Educational purposes
-✓ Security research & validation
-✓ Vulnerability analysis
-✓ Defensive security improvements
-✓ Open-source development
-```
-
-⚠️ **Only test systems you own or have explicit authorization to assess.**
-
----
-
-## Get in Touch
+## ⚖️ Responsible Disclosure & Ethics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-K3ysTr0K3R-00ffaa?style=flat-square&logo=github&logoColor=050505)](https://github.com/K3ysTr0K3R)
-[![Instagram](https://img.shields.io/badge/Instagram-@k.3ystr0k3r-ff00cc?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/k.3ystr0k3r)
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║  AUTHORIZED USE ONLY                                       ║
+║                                                            ║
+║  ✓ Educational purposes                                    ║
+║  ✓ Security research & validation                          ║
+║  ✓ Vulnerability analysis                                  ║
+║  ✓ Defensive security improvements                         ║
+║  ✓ Open-source development                                 ║
+║                                                            ║
+║  ⚠️  Only test systems you own or have explicit            ║
+║      authorization to assess.                              ║
+║                                                            ║
+║  Unauthorized testing is illegal and unethical.            ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
+## 📡 Connect & Follow
+
 <div align="center">
 
-**Continuously learning. Always researching. Forever hacking.**
+[![GitHub](https://img.shields.io/badge/GitHub-K3ysTr0K3R-00ffaa?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505)](https://github.com/K3ysTr0K3R)
+[![Instagram](https://img.shields.io/badge/Instagram-@k.3ystr0k3r-ff00cc?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050505)](https://instagram.com/k.3ystr0k3r)
 
+---
+
+```
+  SECURITY RESEARCHER | EXPLOIT DEVELOPER | OPEN SOURCE
+  
+  Continuously learning. Always researching. Forever hacking.
+  
+  root@k3ystr0k3r:~$ research --continue
+  [ ACCESS GRANTED ]
+```
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:050505,100:00ffaa&height=100&section=footer&textColor=00ffaa" alt="footer" />
 </div>
