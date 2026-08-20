@@ -1,226 +1,127 @@
-# K3ysTr0K3R | Cybersecurity Research & Exploit Development
-
-> **Vulnerability Research | Exploit Development | Security Tooling | Authorized Testing**
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-K3ysTr0K3R-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K3ysTr0K3R)
-  [![Exploit-DB](https://img.shields.io/badge/Exploit--DB-Public%20Exploits-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.exploit-db.com/)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaredbrts175@gmail.com)
-  
-  **Security Research | CVE Analysis | PoC Development | Open Source**
-  
-</div>
+<a href="https://github.com/K3ysTr0K3R"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=500&color=00ff88&center=true&vCenter=true&width=600&lines=Vulnerability+Research+%26+Exploit+Development;20%2B+Published+CVE+Exploits;Security+Tooling+%26+Automation" alt="typing-svg" /></a>
 
 ---
 
-## 🎯 About
+### **About Me**
 
-I'm **Jared Brits**, a cybersecurity researcher specializing in vulnerability discovery, exploit development, and security tooling. My work focuses on identifying and responsibly disclosing critical vulnerabilities in **web applications**, **network appliances**, **IoT devices**, and **enterprise infrastructure**.
+I'm **Jared Brits** (K3ysTr0K3R), a cybersecurity researcher and exploit developer focused on vulnerability discovery and responsible disclosure. My work covers **web applications**, **network infrastructure**, and **IoT devices** with a strong emphasis on reproducible proofs-of-concept and security research automation.
 
-### Core Focus Areas
-
-- **🔍 Vulnerability Research & CVE Analysis** – Deep-dive investigation of security flaws with public PoC exploits
-- **💥 Exploit Development** – Building reliable, reproducible Remote Code Execution (RCE) and privilege escalation exploits
-- **🌐 Security Scanning & Reconnaissance** – Multi-threaded tools for infrastructure discovery and vulnerability assessment
-- **🔧 Tooling & Automation** – Purpose-built scanners, frameworks, and scripts for authorized security testing
-- **🛡️ Responsible Disclosure** – Collaboration with vendors and coordinated vulnerability release
-- **📚 Open Source Contributions** – Public tools and PoCs for security education and authorized testing
+**Core Expertise:**
+- **Vulnerability Research** – CVE analysis, deep vulnerability investigation, reproducible PoCs
+- **Exploit Development** – Remote code execution, privilege escalation, command injection  
+- **Security Tooling** – High-performance scanners, concurrent reconnaissance frameworks
+- **Infrastructure Assessment** – Network fingerprinting, device discovery, exposure mapping
 
 ---
 
-## 🚀 Featured Projects
+### **📊 Stats & Impact**
 
-### High-Impact Tools
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K3ysTr0K3R&theme=dark&background=0a0e27&ring=00ff88&fire=00ff88&currStreakNum=ffffff)](https://github.com/K3ysTr0K3R)
 
-| Project | Purpose | Stack |
-|---------|---------|-------|
-| **INtrack** | Comprehensive internet reconnaissance & security scanner with multi-threaded scanning, tech detection, and CVE assessment | Python |
-| **Routeglass** | Advanced router/appliance fingerprinting tool for identifying network devices via HTTP signatures | Go |
-| **CamTRON** | High-performance IP camera scanner (Hikvision, Dahua, etc.) with concurrent detection and vulnerability assessment | Go |
-| **cPanelScanner** | Multi-threaded scanner for exposed cPanel/WHM instances with CIDR range support | Go |
-| **MikroTik-Winbox-Scanner** | Specialized scanner for RouterOS Winbox services (TCP 8291) supporting large-scale network reconnaissance | Go |
-
-### Research Projects
-
-- **Ingram** – Network camera vulnerability scanner targeting enterprise camera/DVR infrastructure (Hikvision, Dahua, and others)
-
-📂 **[Browse All Repositories →](https://github.com/K3ysTr0K3R?tab=repositories)**
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=dark&bg_color=0a0e27&title_color=00ff88&text_color=ffffff&icon_color=00ff88)](https://github.com/K3ysTr0K3R)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&theme=dark&bg_color=0a0e27&title_color=00ff88&text_color=ffffff)](https://github.com/K3ysTr0K3R)
 
 ---
 
-## 🎖️ CVE Exploit Portfolio
+### **🎯 Featured Tools & Projects**
 
-### Public Exploits by Year
+#### **INtrack** – Python Internet Reconnaissance  
+Multi-threaded vulnerability scanner with technology detection and CVE integration. Designed for automated security intelligence gathering.
 
-<details open>
-<summary><b>2024</b> (5 Exploits)</summary>
+#### **Routeglass** – Go Router Fingerprinting  
+Advanced HTTP-based appliance discovery engine. Identifies routers, firewalls, and network devices through signature-based analysis.
 
-- **CVE-2024-10914**
-- **CVE-2024-27198**
-- **CVE-2024-25600** — WordPress Bricks Builder RCE ([EDB-52619](https://www.exploit-db.com/exploits/52619))
-- **CVE-2024-4577**
-- **CVE-2024-3273**
+#### **CamTRON** – IP Camera Scanner  
+Enterprise IP camera reconnaissance tool supporting Hikvision, Dahua, and OEM brands. Concurrent scanning with infrastructure mapping.
 
-</details>
+#### **cPanelScanner** – Hosted Service Enumeration  
+Multi-threaded cPanel/WHM exposure scanner with CIDR range and DNS-based discovery.
 
-<details>
-<summary><b>2023</b> (4 Exploits)</summary>
-
-- **CVE-2023-51467**
-- **CVE-2023-23752**
-- **CVE-2023-32315**
-- **CVE-2023-43208**
-
-</details>
-
-<details>
-<summary><b>2022</b> (3 Exploits)</summary>
-
-- **CVE-2022-33891**
-- **CVE-2022-34753**
-- **CVE-2022-0165**
-
-</details>
-
-<details>
-<summary><b>2021</b> (5 Exploits)</summary>
-
-- **CVE-2021-43798**
-- **CVE-2021-42013**
-- **CVE-2021-4191**
-- **CVE-2021-34621**
-- **CVE-2021-22873**
-
-</details>
-
-<details>
-<summary><b>2020–2019</b> (2 Exploits)</summary>
-
-- **CVE-2019-15107**
-- **CVE-2019-17382**
-
-</details>
-
-<details>
-<summary><b>2018 & Earlier</b> (7 Exploits)</summary>
-
-- **CVE-2018-14847** – MikroTik RouterOS Critical Vulnerability
-- **CVE-2018-9995**
-- **CVE-2017-8225**
-- **CVE-2017-7921**
-- **CVE-2017-5487**
-- **CVE-2015-2166**
-- **CVE-2014-6271** — Bash ShellShock
-- **CVE-2010-4231**
-- **CVE-2008-5862**
-
-</details>
-
-### Published Exploits
-
-These PoCs are published on **Exploit Database** for authorized security testing and education:
-
-- **[EDB-52619](https://www.exploit-db.com/exploits/52619)** – WordPress Bricks Builder Theme RCE (CVE-2024-25600)
-- **[EDB-52630](https://www.exploit-db.com/exploits/52630)** – Joomla JCE RCE (CVE-2026-48907)
-- **D-Link DNS-340L** – OS Command Injection (writeup & PoC available)
+#### **MikroTik-Winbox-Scanner** – RouterOS Security  
+RouterOS Winbox protocol scanner (TCP 8291). Specialized reconnaissance for Mikrotik infrastructure security research.
 
 ---
 
-## 💻 Technical Stack
+### **🔴 Exploit Catalog**
 
-### Languages & Specializations
+**2024 Research** (5 active exploits)
+- CVE-2024-10914 | CVE-2024-27198 | CVE-2024-25600 (WordPress Bricks Builder RCE) | CVE-2024-4577 | CVE-2024-3273
 
-| Language | Primary Use | Expertise |
-|----------|------------|-----------|
-| **Python** | Exploit development, automation scripts, scanning frameworks | Advanced |
-| **Go** | High-performance scanners, concurrent network tools, deployable binaries | Advanced |
-| **Bash** | Linux automation, scripting, system administration | Intermediate |
-| **Ruby** | Security tooling, penetration testing scripts | Intermediate |
+**2023 Research** (4 exploits)
+- CVE-2023-51467 | CVE-2023-23752 | CVE-2023-32315 | CVE-2023-43208
 
-### Tools & Environment
+**2022–2021** (8 exploits)
+- CVE-2022-33891 | CVE-2022-34753 | CVE-2022-0165  
+- CVE-2021-43798 | CVE-2021-42013 | CVE-2021-4191 | CVE-2021-34621 | CVE-2021-22873
 
-- **Operating System:** Linux (primary development environment)
-- **Containerization:** Docker
-- **Version Control:** Git/GitHub
-- **CI/CD:** GitHub Actions
-- **Code Editor:** Vim
-- **Infrastructure:** Multi-threaded concurrent programming, network sockets, protocol analysis
+**2020–2010** (10+ legacy exploits)
+- CVE-2019-15107 | CVE-2019-17382 | CVE-2018-14847 (MikroTik) | CVE-2018-9995 | CVE-2017-8225 | CVE-2017-7921 | CVE-2017-5487 | CVE-2015-2166 | CVE-2014-6271 (Bash ShellShock) | CVE-2010-4231 | CVE-2008-5862
 
----
-
-## 📊 Research Highlights
-
-### Specialization Areas
-
-- **Web Application Security** – CMS vulnerabilities, authentication bypass, RCE in PHP/Node.js applications
-- **IoT & Embedded Systems** – Network cameras, DVRs, NVRs, smart devices
-- **Network Appliances** – Routers, firewalls, network access control devices
-- **Enterprise Software** – cPanel/WHM, DNS servers, enterprise management interfaces
-- **Protocol Analysis** – HTTP/HTTPS inspection, Winbox protocol reverse-engineering
-
-### Attack Vectors
-
-- Remote Code Execution (RCE)
-- Command Injection
-- Authentication Bypass
-- Privilege Escalation
-- Cross-Site Scripting (XSS)
-- SQL Injection
-- Insecure Deserialization
+📌 **Published on Exploit-DB:**
+- [EDB-52619](https://www.exploit-db.com/exploits/52619) – WordPress Bricks Builder RCE (CVE-2024-25600)
+- [EDB-52630](https://www.exploit-db.com/exploits/52630) – Joomla JCE RCE (CVE-2026-48907)
 
 ---
 
-## 🔗 Connect
+### **💻 Technical Stack**
 
-### Professional & Research
+**Languages**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Advanced (PoC exploits, scanning frameworks)
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) Advanced (High-performance scanners)
+- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white) Proficient (Linux automation)
+- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) Proficient (Security tooling)
 
-- **📧 Email:** [jaredbrts175@gmail.com](mailto:jaredbrts175@gmail.com)
-- **💻 GitHub:** [github.com/K3ysTr0K3R](https://github.com/K3ysTr0K3R)
-- **🐛 Exploit-DB:** [Public Exploits & Writeups](https://www.exploit-db.com/)
+**Specializations**
+- Remote Code Execution (RCE) | Privilege Escalation | Authentication Bypass
+- Command Injection | SQL Injection | XSS | Deserialization Attacks
+- Protocol Reverse Engineering | Network Fingerprinting | Binary Analysis
 
-### Social & Discussion
-
-- **🐦 X (Twitter):** [@K3ysTr0K3R_1](https://x.com/K3ysTr0K3R_1)
-- **📸 Instagram:** [@k3ystr0k3r__1](https://instagram.com/k3ystr0k3r__1)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&hide_border=true&theme=dark)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&hide_border=true&theme=dark)
-  
-</div>
+**Environment & Tools**
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) Primary development OS
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Containerization
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) Version control & CI/CD
+- ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) Code editor
 
 ---
 
-## ⚖️ Responsible Disclosure
+### **🎯 Research Focus Areas**
 
-All published exploits are released **only after**:
-- ✅ Vulnerability confirmed and reproducible
-- ✅ Vendor notification & coordination (when applicable)
-- ✅ Adequate time for patches (90+ days standard)
-- ✅ Public disclosure aligned with CVE timeline
-
-This research is conducted for **authorized security testing and educational purposes only**. All tools and exploits must be used responsibly within legal frameworks.
+| Domain | Coverage | Examples |
+|--------|----------|----------|
+| **Web Applications** | CMS exploits, PHP RCE, authentication flaws | WordPress, Joomla vulnerabilities |
+| **IoT & Cameras** | Network cameras, DVRs, NVRs | Hikvision, Dahua infrastructure |
+| **Network Infrastructure** | Routers, firewalls, appliances | MikroTik RouterOS, D-Link devices |
+| **Enterprise Software** | Hosted control panels | cPanel/WHM exposure assessment |
 
 ---
 
-## 📝 License & Usage
+### **🤝 Collaboration & Contact**
 
-Projects are released under permissive licenses for authorized security professionals. Review individual repositories for specific licensing terms.
+**Professional Inquiries**
+- 📧 Email: [jaredbrts175@gmail.com](mailto:jaredbrts175@gmail.com)
+- 💻 GitHub: [github.com/K3ysTr0K3R](https://github.com/K3ysTr0K3R)
 
-**All security research is conducted ethically and responsibly in accordance with responsible disclosure principles.**
+**Research & Community**
+- 🔗 X/Twitter: [@K3ysTr0K3R_1](https://x.com/K3ysTr0K3R_1)
+- 📸 Instagram: [@k3ystr0k3r__1](https://instagram.com/k3ystr0k3r__1)
+- 🐛 Exploit-DB: [Public PoC Repository](https://www.exploit-db.com/)
+
+---
+
+### **⚖️ Responsible Disclosure**
+
+All research adheres to industry-standard responsible disclosure:
+- ✓ Vulnerability verification and reproducibility
+- ✓ Vendor notification & coordinated response (90+ day windows)
+- ✓ Public disclosure aligned with CVE timeline
+- ✓ Authorized security testing & educational use only
 
 ---
 
 <div align="center">
-  
-  ### 🎯 Always Learning. Always Researching. Always Improving.
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=K3ysTr0K3R&style=flat-square&label=Profile+Views)
-  
+
+**Building security through vulnerability research and transparent knowledge sharing**
+
+![Profile Views](https://komarev.com/ghpvc/?username=K3ysTr0K3R&style=flat-square&color=00ff88)
+
 </div>
