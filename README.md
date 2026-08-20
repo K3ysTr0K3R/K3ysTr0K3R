@@ -1,289 +1,264 @@
 <div align="center">
 
-# Jared Brits
-
-### `K3ysTr0K3R`
-
-**Cybersecurity Researcher · Ethical Hacker · Exploit Developer**
-
-[![GitHub](https://img.shields.io/badge/GitHub-K3ysTr0K3R-181717?style=for-the-badge\&logo=github)](https://github.com/K3ysTr0K3R)
-[![Exploit Database](https://img.shields.io/badge/Exploit--DB-Research-8B0000?style=for-the-badge)](https://www.exploit-db.com/)
-[![Open Source](https://img.shields.io/badge/Open--Source-Research-2ea44f?style=for-the-badge\&logo=github)](https://github.com/K3ysTr0K3R)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b3d2e,100:00ff88&height=220&section=header&text=K3ysTr0K3R&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Exploit%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-> **Research. Break. Understand. Build. Document.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=Vulnerability+Research;Exploit+Development;Security+Tooling;Reconnaissance+%26+Automation;Open-Source+Security+Research" />
+
+<br><br>
+
+<a href="https://github.com/K3ysTr0K3R">
+<img src="https://img.shields.io/badge/GitHub-K3ysTr0K3R-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.exploit-db.com/">
+<img src="https://img.shields.io/badge/Exploit--DB-Research-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff88"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# About Me
+<div align="center">
 
-I'm **Jared Brits**, better known online as **K3ysTr0K3R**.
+### `> whoami`
 
-I'm a cybersecurity researcher and ethical hacker focused on **vulnerability research, exploit development, reconnaissance, security automation, and building security tools**.
+**Jared Brits**
+`K3ysTr0K3R`
 
-My work revolves around understanding how vulnerable software and exposed infrastructure behave, turning that research into reproducible proof-of-concepts, and building tools that make security testing faster and more practical.
+**Cybersecurity Researcher · Ethical Hacker · Exploit Developer**
 
-My primary areas of interest include:
+> I research vulnerabilities, develop reproducible proof-of-concepts,
+> and build security tooling for authorized research and education.
 
-* Vulnerability research
-* Exploit development
-* Proof-of-concept development
-* Web application security
-* Network security
-* IoT and embedded-device security
-* Reconnaissance and fingerprinting
-* Vulnerability scanning
-* Security automation
-* Open-source security tooling
-
-I use GitHub as a public research notebook and development environment where I publish tools, experiments, proof-of-concepts, and security research.
+</div>
 
 ---
 
-# Research Focus
+## `$ cat about.txt`
+
+I'm **Jared Brits**, known online as **K3ysTr0K3R**.
+
+I work primarily in **vulnerability research, exploit development, reconnaissance, security automation, and security-tool development**.
+
+My GitHub is a collection of research projects, scanners, proof-of-concept exploits and experiments focused on understanding how vulnerable systems work and turning that understanding into practical tooling.
 
 ```text
-                 K3ysTr0K3R
-                      │
-       ┌──────────────┼──────────────┐
-       │              │              │
-       ▼              ▼              ▼
- Vulnerability    Reconnaissance   Exploit
-   Research         & Scanning    Development
-       │              │              │
-       └──────────────┼──────────────┘
-                      │
-                      ▼
-               Security Tooling
-                      │
-                      ▼
-             Reproducible PoCs
-                      │
-                      ▼
-             Open-Source Research
+┌──────────────────────────────────────────────────────────────┐
+│                        K3ysTr0K3R                             │
+├──────────────────────────────────────────────────────────────┤
+│  Research        Vulnerability Research / CVE Analysis       │
+│  Development     Exploit PoCs / Security Tooling             │
+│  Recon           Network / Web / IoT Discovery                │
+│  Automation      Scanners / GitHub Actions / CLI Tooling      │
+│  Environment     Linux / Docker / Git                         │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# Featured Security Projects
+# `./focus`
 
-## cPanelScanner
+<div align="center">
 
-**Fast, multi-threaded cPanel discovery tool written in Go.**
+|            `01`            |           `02`          |          `03`          |
+| :------------------------: | :---------------------: | :--------------------: |
+| **Vulnerability Research** | **Exploit Development** |  **Security Tooling**  |
+|        CVE analysis        |       RCE research      |     Reconnaissance     |
+|     Root-cause analysis    |  Authentication bypass  | Vulnerability scanners |
+|       PoC development      |    Command injection    |    Network discovery   |
 
-cPanelScanner is designed to identify exposed cPanel / WHM services across IP ranges, CIDR blocks, and target lists.
+|           `04`          |         `05`         |       `06`       |
+| :---------------------: | :------------------: | :--------------: |
+|     **Web Security**    | **Network Security** | **IoT Security** |
+|     Web applications    |        Routers       |      Cameras     |
+|    Web infrastructure   |       Firewalls      |     DVR / NVR    |
+| Internet-facing systems |  Network appliances  | Embedded devices |
 
-**Highlights**
-
-* Written in Go
-* Concurrent scanning
-* CIDR support
-* Target-list support
-* cPanel service detection
-* Ports `2082`, `2083`, and `2087`
-
-**Repository:**
-https://github.com/K3ysTr0K3R/cPanelScanner
-
----
-
-## CamTRON
-
-**Camera and surveillance-device detection scanner written in Go.**
-
-CamTRON focuses on identifying network-accessible cameras, DVRs and NVRs through device fingerprinting.
-
-**Highlights**
-
-* Go-based concurrent scanner
-* Camera/device fingerprinting
-* Support for numerous vendors
-* CIDR and range scanning
-* CSV output
-* Network reconnaissance
-
-**Repository:**
-https://github.com/K3ysTr0K3R/CamTRON
+</div>
 
 ---
 
-## INtrack
+# `./projects`
 
-**Internet crawler and security scanner written in Python.**
+### `01` — INtrack
 
-INtrack is designed for large-scale reconnaissance and technology discovery, combining host discovery, service detection, technology identification and vulnerability-oriented enumeration.
+**Internet Crawler & Security Scanner**
 
-**Highlights**
+A Python-based reconnaissance and security scanner designed for discovering technologies, services, instances and vulnerabilities across the Internet.
 
-* Python
-* Multi-threaded scanning
-* Host and subnet scanning
-* Technology detection
-* Web-service enumeration
-* IoT discovery
-* CVE-oriented detection
-* Internet-scale reconnaissance capabilities
+**Research areas**
 
-**Repository:**
-https://github.com/K3ysTr0K3R/INtrack
+`Reconnaissance` `Technology Detection` `IoT` `CVE Detection` `Web Enumeration`
+
+[**View Repository →**](https://github.com/K3ysTr0K3R/INtrack)
 
 ---
 
-## Routeglass
+### `02` — Routeglass
 
-**High-speed router and network-appliance fingerprinting tool written in Go.**
+**High-Speed Router & Network Appliance Fingerprinting**
 
-Routeglass identifies exposed routers, firewalls and embedded network devices by analyzing HTTP responses against device fingerprints.
+A Go-based fingerprinting tool designed to identify exposed routers, firewalls and embedded network appliances through HTTP response analysis.
 
-**Highlights**
+**Research areas**
 
-* Written in Go
-* High-speed concurrent scanning
-* Router fingerprinting
-* Firewall/device identification
-* IPv4 range support
-* CIDR support
-* Custom user-agent support
+`Go` `Fingerprinting` `Routers` `Firewalls` `Network Recon`
 
-**Repository:**
-https://github.com/K3ysTr0K3R/Routeglass
+[**View Repository →**](https://github.com/K3ysTr0K3R/Routeglass)
 
 ---
 
-## MikroTik Winbox Scanner
+### `03` — CamTRON
 
-**Winbox protocol scanner for MikroTik RouterOS.**
+**Camera Detection Scanner**
 
-A concurrent scanner designed to identify exposed MikroTik Winbox services and assist with security research surrounding RouterOS infrastructure.
+A Go-based scanner for identifying network-accessible surveillance infrastructure including IP cameras, DVRs and NVRs.
 
-**Highlights**
+**Research areas**
 
-* Go
-* Concurrent scanning
-* Winbox service discovery
-* TCP `8291` detection
-* RouterOS reconnaissance
-* CVE-2018-14847 research support
+`Go` `IP Cameras` `DVR/NVR` `Fingerprinting` `Concurrent Scanning`
 
-**Repository:**
-https://github.com/K3ysTr0K3R/MikroTik-Winbox-Scanner
+[**View Repository →**](https://github.com/K3ysTr0K3R/CamTRON)
 
 ---
 
-## Ingram
+### `04` — cPanelScanner
 
-**Webcam and DVR vulnerability scanning tool.**
+**Fast cPanel Discovery Tool**
 
-Ingram focuses on identifying vulnerable internet-connected camera and DVR infrastructure from supported vendors.
+A concurrent Go scanner for detecting exposed cPanel / WHM services across IP ranges, CIDR blocks and target lists.
 
-**Research areas include:**
+**Research areas**
 
-* IP cameras
-* DVRs
-* Network video devices
-* Hikvision
-* Dahua
-* Vulnerability discovery
+`Go` `Network Scanning` `CIDR` `cPanel` `Concurrency`
 
-**Repository:**
-https://github.com/K3ysTr0K3R/Ingram
+[**View Repository →**](https://github.com/K3ysTr0K3R/cPanelScanner)
 
 ---
 
-# Security Tooling
+### `05` — MikroTik-Winbox-Scanner
 
-My repositories cover several categories of offensive-security research tooling.
+**Winbox Protocol Scanner**
 
-### Reconnaissance
+A concurrent scanner for discovering exposed MikroTik RouterOS Winbox services.
 
-* Internet-scale discovery
-* Host enumeration
-* Service detection
-* Technology fingerprinting
-* Router fingerprinting
-* Camera/DVR discovery
-* Network appliance identification
+**Research areas**
 
-### Vulnerability Scanning
+`Go` `Winbox` `RouterOS` `Network Recon` `CVE Research`
 
-* Web vulnerabilities
-* Remote code execution
-* Authentication vulnerabilities
-* Network appliance vulnerabilities
-* IoT vulnerabilities
-* Known-CVE detection
-
-### Exploit Development
-
-* Remote Code Execution
-* Command Injection
-* Authentication Bypass
-* Arbitrary File Read
-* Privilege Escalation
-* Web application vulnerabilities
-* Network appliance vulnerabilities
-
-### Security Automation
-
-* Concurrent scanning
-* Automated enumeration
-* Target-list processing
-* CIDR processing
-* Output generation
-* GitHub Actions automation
+[**View Repository →**](https://github.com/K3ysTr0K3R/MikroTik-Winbox-Scanner)
 
 ---
 
-# Languages
+### `06` — Ingram
 
-<p align="center">
+**Webcam & DVR Vulnerability Scanner**
+
+A Python security tool focused on vulnerability research against network-accessible camera and DVR infrastructure.
+
+**Research areas**
+
+`Python` `Webcams` `DVR` `IoT Security` `Vulnerability Scanning`
+
+[**View Repository →**](https://github.com/K3ysTr0K3R/Ingram)
+
+---
+
+<div align="center">
+
+### More projects
+
+[**Browse all repositories →**](https://github.com/K3ysTr0K3R?tab=repositories)
+
+</div>
+
+---
+
+# `./stack`
+
+<div align="center">
+
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,go,bash,ruby" />
 
-</p>
+<br><br>
 
-| Language   | Primary Use                                                           |
-| ---------- | --------------------------------------------------------------------- |
-| **Python** | Security research, PoCs, automation, scanners and reconnaissance      |
-| **Go**     | High-performance scanners, concurrent networking and security tooling |
-| **Bash**   | Linux automation, scripting and security workflows                    |
-| **Ruby**   | Security tooling, scripting and exploit-development environments      |
-
----
-
-# Technologies
-
-<p align="center">
+### Environment & Tooling
 
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vim" />
 
-</p>
+</div>
+
+<br>
 
 ```text
-Linux
-Git / GitHub
-GitHub Actions
-Docker
-Vim
-CLI Security Tooling
-Network Reconnaissance
-Concurrent Scanning
-Vulnerability Research
-Exploit Development
+Python     ████████████████████  Research / PoCs / Automation
+Go         ██████████████████░░  Scanners / Networking / Concurrency
+Bash       ███████████████░░░░░  Linux / Automation
+Ruby       ██████████░░░░░░░░░░  Security tooling / Scripting
 ```
 
 ---
 
-# GitHub Automation & Workflows
+# `./workflow`
 
-I use **GitHub Actions** to automate parts of my GitHub environment and development workflow.
+My development workflow generally follows:
 
-## Contribution Snake
+```text
+                 ┌───────────────┐
+                 │   RESEARCH    │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │  ENUMERATION  │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ ROOT-CAUSE    │
+                 │   ANALYSIS    │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │  PoC / TOOL   │
+                 │ DEVELOPMENT   │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ VALIDATION &  │
+                 │ DOCUMENTATION │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │   RELEASE /   │
+                 │  OPEN SOURCE  │
+                 └───────────────┘
+```
 
-One of my repository workflows generates the animated GitHub contribution snake.
+---
+
+# `./github-actions`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Workflows-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Enabled-00ff88?style=for-the-badge"/>
+
+</div>
+
+I use **GitHub Actions** for repository automation and profile tooling.
+
+### Contribution Snake
+
+One of my workflows generates the animated contribution graph displayed below.
 
 ```text
 .github/
@@ -291,136 +266,175 @@ One of my repository workflows generates the animated GitHub contribution snake.
     └── snake.yml
 ```
 
-The workflow automates generation of the contribution visualization used throughout my profile.
+<div align="center">
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/K3ysTr0K3R/K3ysTr0K3R/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
 
-<img src="https://raw.githubusercontent.com/K3ysTr0K3R/K3ysTr0K3R/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</p>
-
-### Automation Stack
-
-```text
-GitHub Actions
-      │
-      ├── Automated workflows
-      ├── Scheduled execution
-      ├── Repository automation
-      ├── Contribution visualization
-      └── GitHub profile tooling
-```
+</div>
 
 ---
 
-# Exploit Development
+# `./exploit-db`
 
-A significant part of my work involves researching publicly disclosed vulnerabilities and developing reproducible proof-of-concept implementations.
+My vulnerability research has also reached **Exploit Database**, with publicly indexed exploit submissions attributed to **K3ysTr0K3R / Jared Brits**.
 
-My exploit repositories span multiple generations of vulnerabilities, including:
+<div align="center">
 
-* Remote Code Execution
-* Authentication Bypass
-* Command Injection
-* Arbitrary File Read
-* Privilege Escalation
-* Web Application vulnerabilities
-* Network appliance vulnerabilities
-* IoT vulnerabilities
+| Vulnerability       |         Type         |   Exploit-DB  |
+| :------------------ | :------------------: | :-----------: |
+| **CVE-2024-25600**  |     WordPress RCE    | **EDB-52619** |
+| **CVE-2026-48907**  |    Joomla JCE RCE    | **EDB-52630** |
+| **D-Link DNS-340L** | OS Command Injection | **EDB-52624** |
+
+</div>
+
+### CVE-2024-25600
+
+**WordPress Bricks Builder Theme — Remote Code Execution**
+
+[**Exploit-DB → EDB-52619**](https://www.exploit-db.com/exploits/52619)
+
+### CVE-2026-48907
+
+**Joomla JCE — Unauthenticated Remote Code Execution**
+
+[**Exploit-DB → EDB-52630**](https://www.exploit-db.com/exploits/52630)
+
+### D-Link DNS-340L
+
+**OS Command Injection**
+
+[**Explore Exploit-DB →**](https://www.exploit-db.com/)
 
 ---
 
-# CVE Exploit Portfolio
+# `./cve-archive`
 
 <details>
-<summary><b>2024</b></summary>
+<summary><b>EXPLOIT PORTFOLIO — 2024</b></summary>
 
-* [CVE-2024-10914](https://github.com/K3ysTr0K3R/CVE-2024-10914-EXPLOIT)
-* [CVE-2024-27198](https://github.com/K3ysTr0K3R/CVE-2024-27198-EXPLOIT)
-* [CVE-2024-25600](https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT)
-* [CVE-2024-4577](https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT)
-* [CVE-2024-3273](https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT)
+<br>
+
+| CVE            | Repository                                                      |
+| :------------- | :-------------------------------------------------------------- |
+| CVE-2024-10914 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-10914-EXPLOIT) |
+| CVE-2024-27198 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-27198-EXPLOIT) |
+| CVE-2024-25600 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT) |
+| CVE-2024-4577  | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT)  |
+| CVE-2024-3273  | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT)  |
 
 </details>
 
 <details>
-<summary><b>2023</b></summary>
+<summary><b>EXPLOIT PORTFOLIO — 2023</b></summary>
 
-* [CVE-2023-51467](https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT)
-* [CVE-2023-23752](https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT)
-* [CVE-2023-32315](https://github.com/K3ysTr0K3R/CVE-2023-32315-EXPLOIT)
-* [CVE-2023-43208](https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT)
+<br>
 
-</details>
-
-<details>
-<summary><b>2022</b></summary>
-
-* [CVE-2022-33891](https://github.com/K3ysTr0K3R/CVE-2022-33891-EXPLOIT)
-* [CVE-2022-34753](https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT)
-* [CVE-2022-0165](https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT)
+| CVE            | Repository                                                      |
+| :------------- | :-------------------------------------------------------------- |
+| CVE-2023-51467 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT) |
+| CVE-2023-23752 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT) |
+| CVE-2023-32315 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-32315-EXPLOIT) |
+| CVE-2023-43208 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT) |
 
 </details>
 
 <details>
-<summary><b>2021</b></summary>
+<summary><b>EXPLOIT PORTFOLIO — 2022</b></summary>
 
-* [CVE-2021-43798](https://github.com/K3ysTr0K3R/CVE-2021-43798-EXPLOIT)
-* [CVE-2021-42013](https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT)
-* [CVE-2021-4191](https://github.com/K3ysTr0K3R/CVE-2021-4191-EXPLOIT)
-* [CVE-2021-34621](https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT)
-* [CVE-2021-22873](https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT)
+<br>
 
-</details>
-
-<details>
-<summary><b>2019</b></summary>
-
-* [CVE-2019-15107](https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT)
-* [CVE-2019-17382](https://github.com/K3ysTr0K3R/CVE-2019-17382-EXPLOIT)
+| CVE            | Repository                                                      |
+| :------------- | :-------------------------------------------------------------- |
+| CVE-2022-33891 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2022-33891-EXPLOIT) |
+| CVE-2022-34753 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT) |
+| CVE-2022-0165  | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT)  |
 
 </details>
 
 <details>
-<summary><b>2018</b></summary>
+<summary><b>EXPLOIT PORTFOLIO — 2021</b></summary>
 
-* [CVE-2018-14847](https://github.com/K3ysTr0K3R/CVE-2018-14847-EXPLOIT)
-* [CVE-2018-9995](https://github.com/K3ysTr0K3R/CVE-2018-9995-EXPLOIT)
+<br>
 
-</details>
-
-<details>
-<summary><b>2017</b></summary>
-
-* [CVE-2017-8225](https://github.com/K3ysTr0K3R/CVE-2017-8225-EXPLOIT)
-* [CVE-2017-7921](https://github.com/K3ysTr0K3R/CVE-2017-7921-EXPLOIT)
-* [CVE-2017-5487](https://github.com/K3ysTr0K3R/CVE-2017-5487-EXPLOIT)
+| CVE            | Repository                                                      |
+| :------------- | :-------------------------------------------------------------- |
+| CVE-2021-43798 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-43798-EXPLOIT) |
+| CVE-2021-42013 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT) |
+| CVE-2021-4191  | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-4191-EXPLOIT)  |
+| CVE-2021-34621 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT) |
+| CVE-2021-22873 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT) |
 
 </details>
 
 <details>
-<summary><b>2015</b></summary>
+<summary><b>EXPLOIT PORTFOLIO — 2019</b></summary>
+
+<br>
+
+| CVE            | Repository                                                      |
+| :------------- | :-------------------------------------------------------------- |
+| CVE-2019-15107 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT) |
+| CVE-2019-17382 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2019-17382-EXPLOIT) |
+
+</details>
+
+<details>
+<summary><b>EXPLOIT PORTFOLIO — 2018</b></summary>
+
+<br>
+
+| CVE            | Repository                                                      |
+| :------------- | :-------------------------------------------------------------- |
+| CVE-2018-14847 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2018-14847-EXPLOIT) |
+| CVE-2018-9995  | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2018-9995-EXPLOIT)  |
+
+</details>
+
+<details>
+<summary><b>EXPLOIT PORTFOLIO — 2017</b></summary>
+
+<br>
+
+| CVE           | Repository                                                     |
+| :------------ | :------------------------------------------------------------- |
+| CVE-2017-8225 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-8225-EXPLOIT) |
+| CVE-2017-7921 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-7921-EXPLOIT) |
+| CVE-2017-5487 | [EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-5487-EXPLOIT) |
+
+</details>
+
+<details>
+<summary><b>EXPLOIT PORTFOLIO — 2015</b></summary>
+
+<br>
 
 * [CVE-2015-2166](https://github.com/K3ysTr0K3R/CVE-2015-2166-EXPLOIT)
 
 </details>
 
 <details>
-<summary><b>2014</b></summary>
+<summary><b>EXPLOIT PORTFOLIO — 2014</b></summary>
+
+<br>
 
 * [CVE-2014-6271](https://github.com/K3ysTr0K3R/CVE-2014-6271-EXPLOIT)
 
 </details>
 
 <details>
-<summary><b>2010</b></summary>
+<summary><b>EXPLOIT PORTFOLIO — 2010</b></summary>
+
+<br>
 
 * [CVE-2010-4231](https://github.com/K3ysTr0K3R/CVE-2010-4231-EXPLOIT)
 
 </details>
 
 <details>
-<summary><b>2008</b></summary>
+<summary><b>EXPLOIT PORTFOLIO — 2008</b></summary>
+
+<br>
 
 * [CVE-2008-5862](https://github.com/K3ysTr0K3R/CVE-2008-5862-EXPLOIT)
 
@@ -428,241 +442,117 @@ My exploit repositories span multiple generations of vulnerabilities, including:
 
 ---
 
-# Exploit-DB Research
+# `./achievements`
 
-Some of my vulnerability research has also been published/indexed through the **Exploit Database**.
+<div align="center">
 
-### CVE-2024-25600
+<a href="https://github.com/K3ysTr0K3R?tab=achievements">
 
-**WordPress Bricks Builder Theme — Remote Code Execution**
+<img src="https://img.shields.io/badge/GitHub-Starstruck-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
 
-Exploit-DB: **EDB-ID 52619**
+</a>
 
-[View on Exploit-DB](https://www.exploit-db.com/exploits/52619)
+<a href="https://github.com/K3ysTr0K3R?tab=achievements">
 
----
+<img src="https://img.shields.io/badge/GitHub-Quickdraw-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
 
-### CVE-2026-48907
+</a>
 
-**Joomla JCE — Unauthenticated Remote Code Execution**
+</div>
 
-Exploit-DB: **EDB-ID 52630**
+<br>
 
-[View on Exploit-DB](https://www.exploit-db.com/exploits/52630)
+<div align="center">
 
----
+**Open-source security research · Public tooling · Vulnerability research**
 
-### D-Link DNS-340L
-
-**OS Command Injection**
-
-An Exploit-DB entry associated with my research covers OS command injection affecting D-Link NAS devices.
-
-[Explore Exploit-DB](https://www.exploit-db.com/)
+</div>
 
 ---
 
-# Research Workflow
+# `./activity`
 
-I approach vulnerability research as a repeatable process rather than simply writing an exploit and moving on.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=K3ysTr0K3R&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# `./stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&hide_border=true&bg_color=050505&title_color=00ff88&text_color=c9d1d9"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=K3ysTr0K3R&background=050505&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=777777&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+# `./collaborate`
+
+Interested in working together?
+
+I'm open to collaboration around:
 
 ```text
-             Target / Software
-                    │
-                    ▼
-             Reconnaissance
-                    │
-                    ▼
-              Enumeration
-                    │
-                    ▼
-          Vulnerability Analysis
-                    │
-                    ▼
-             Root Cause Study
-                    │
-                    ▼
-             PoC Development
-                    │
-                    ▼
-            Reproducible Testing
-                    │
-                    ▼
-              Documentation
-                    │
-                    ▼
-           Responsible Disclosure
+[+] Vulnerability Research
+[+] Exploit Development
+[+] Security Tooling
+[+] Reconnaissance
+[+] CVE Research
+[+] Open-Source Security
+[+] Defensive Research
+[+] Security Automation
 ```
 
----
-
-# Security Research Philosophy
-
-```text
-Understand the vulnerability.
-        ↓
-Understand why it exists.
-        ↓
-Build a reproducible demonstration.
-        ↓
-Validate the impact.
-        ↓
-Document the findings.
-        ↓
-Share knowledge responsibly.
-```
-
-My security tooling and proof-of-concept repositories are intended for **authorized testing, vulnerability research, defensive security validation and education**.
-
-Only test systems you own or have explicit permission to assess.
+If you're working on something interesting, feel free to reach out.
 
 ---
 
-# GitHub Achievements
+# `./contact`
 
-My GitHub activity includes recognized profile achievements such as:
+<div align="center">
 
-* **Starstruck**
-* **Quickdraw**
-
-My GitHub profile has also grown into a sizeable collection of public security research repositories covering scanners, reconnaissance tools, PoCs and experiments.
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&style=for-the-badge" alt="Profile Views">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=K3ysTr0K3R&theme=black-ice&hide_border=true" alt="GitHub Streak">
-
-</p>
-
----
-
-# Featured Repositories
-
-<p align="center">
-
-<a href="https://github.com/K3ysTr0K3R/INtrack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=K3ysTr0K3R&repo=INtrack&theme=dark&hide_border=true">
+<a href="mailto:jaredbrts175@gmail.com">
+<img src="https://img.shields.io/badge/Email-jaredbrts175%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<a href="https://github.com/K3ysTr0K3R/Routeglass">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=K3ysTr0K3R&repo=Routeglass&theme=dark&hide_border=true">
+<a href="https://github.com/K3ysTr0K3R">
+<img src="https://img.shields.io/badge/GitHub-K3ysTr0K3R-0d1117?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
-
-<p align="center">
-
-<a href="https://github.com/K3ysTr0K3R/CamTRON">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=K3ysTr0K3R&repo=CamTRON&theme=dark&hide_border=true">
+<a href="https://instagram.com/k3ystr0k3r__1">
+<img src="https://img.shields.io/badge/Instagram-k3ystr0k3r__1-0d1117?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://github.com/K3ysTr0K3R/cPanelScanner">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=K3ysTr0K3R&repo=cPanelScanner&theme=dark&hide_border=true">
+<a href="https://twitter.com/K3ysTr0K3R_1">
+<img src="https://img.shields.io/badge/X-K3ysTr0K3R__1-0d1117?style=for-the-badge&logo=x"/>
 </a>
 
-</p>
-
----
-
-# Repository Portfolio
-
-My GitHub contains a growing collection of:
-
-```text
-Security Scanners
-        │
-        ├── Network
-        ├── Web
-        ├── IoT
-        ├── Cameras
-        └── Network Appliances
-
-Exploit PoCs
-        │
-        ├── RCE
-        ├── Authentication Bypass
-        ├── Command Injection
-        ├── File Read
-        └── Privilege Escalation
-
-Research
-        │
-        ├── CVE Analysis
-        ├── Vulnerability Research
-        ├── Fingerprinting
-        └── Security Automation
-```
-
-**Explore everything:**
-https://github.com/K3ysTr0K3R?tab=repositories
-
----
-
-# Collaboration
-
-I'm open to collaborating with researchers, developers and security enthusiasts working on:
-
-* Vulnerability research
-* Exploit development
-* Security tooling
-* Reconnaissance
-* Open-source security projects
-* CVE research
-* Defensive security
-* Educational security labs
-
-If you're building something interesting in cybersecurity, feel free to reach out.
-
----
-
-# Contact
-
-**Email:**
-[jaredbrts175@gmail.com](mailto:jaredbrts175@gmail.com)
-
-**GitHub:**
-https://github.com/K3ysTr0K3R
-
-**Instagram:**
-https://instagram.com/k3ystr0k3r__1
-
-**X / Twitter:**
-https://twitter.com/K3ysTr0K3R_1
+</div>
 
 ---
 
 <div align="center">
 
-### K3ysTr0K3R
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0b3d2e,100:050505&height=120&section=footer"/>
 
-`Cybersecurity Researcher`
-`Ethical Hacker`
-`Exploit Developer`
-`Open-Source Security`
+### `K3ysTr0K3R`
 
-<br>
+**Research. Understand. Build. Share.**
 
-**Breaking things to understand how they work.**
+<sub>Security research and tooling for authorized testing, education and responsible disclosure.</sub>
 
 </div>
