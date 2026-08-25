@@ -21,19 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K3ysTr0K3R&hide_border=true&theme=transparent" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=K3ysTr0K3R&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K3ysTr0K3R&hide_border=true&theme=github-compact" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 </p>
 
 ---
