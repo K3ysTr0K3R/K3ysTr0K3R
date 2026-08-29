@@ -3,6 +3,20 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=K3ysTr0K3R&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+![Streak Stats](https://streak-stats.demolab.com/?user=K3ysTr0K3R&theme=ambient_gradient&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=K3ysTr0K3R&theme=ambient_gradient&hide_border=false&layout=compact&langs_count=10)
+
+</div>
+
+---
+
 ## 🎯 Exploit Development
 
 **Public CVE Exploits Published:**
@@ -25,36 +39,13 @@
 
 ## 🛠️ Offensive Security Tools
 
-### LiquidNet
-IPv4 grabber/scanner for cybersecurity professionals — gather IP addresses globally and conduct precise network scans for vulnerability analysis.
-
-**Features:**
-- Global IPv4 collection
-- Network scanning capabilities
-- Penetration testing support
-- Ethical hacking framework
-
-[Repository](https://github.com/K3ysTr0K3R/LiquidNet)
-
-### Webanator
-Advanced webcam scraper with cutting-edge algorithms for extracting and streaming webcams globally.
-
-**Features:**
-- Real-time webcam extraction
-- Global coverage
-- Advanced algorithms
-- Multiple country support
-
-[Repository](https://github.com/K3ysTr0K3R/Webanator)
-
-### Nuclei Templates
-Custom Nuclei templates for automated vulnerability scanning.
-
-### Subdomain Enumeration Tool
-Fast subdomain scanner written in Python for reconnaissance.
-
-### Metasploit Modules
-Custom Metasploit modules for penetration testing.
+| Tool | Description | Features | Repo |
+|------|-------------|----------|------|
+| **LiquidNet** | IPv4 grabber/scanner for gathering targets globally | Global IPv4 collection, Network scanning, Pentesting support, Ethical hacking framework | [Link](https://github.com/K3ysTr0K3R/LiquidNet) |
+| **Webanator** | Advanced webcam scraper with cutting-edge algorithms | Real-time extraction, Global coverage, Advanced algorithms, Multi-country support | [Link](https://github.com/K3ysTr0K3R/Webanator) |
+| **Nuclei Templates** | Custom templates for automated vulnerability scanning | Vulnerability detection, Automation, Customizable scans | [Link](https://github.com/K3ysTr0K3R) |
+| **Subdomain Enumeration** | Fast Python-based subdomain scanner for reconnaissance | Python-powered, Fast scanning, Reconnaissance, Target enumeration | [Link](https://github.com/K3ysTr0K3R) |
+| **Metasploit Modules** | Custom modules for penetration testing | Exploitation, Pentesting, Framework integration | [Link](https://github.com/K3ysTr0K3R) |
 
 ---
 
@@ -83,18 +74,6 @@ Custom Metasploit modules for penetration testing.
 <div align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Contribution Graph" width="600" />
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=K3ysTr0K3R&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-![Streak Stats](https://streak-stats.demolab.com/?user=K3ysTr0K3R&theme=ambient_gradient&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=K3ysTr0K3R&theme=ambient_gradient&hide_border=false&layout=compact&langs_count=10)
 
 ---
 
