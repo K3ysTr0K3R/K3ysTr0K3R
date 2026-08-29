@@ -3,20 +3,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=K3ysTr0K3R&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-![Streak Stats](https://streak-stats.demolab.com/?user=K3ysTr0K3R&theme=ambient_gradient&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=K3ysTr0K3R&theme=ambient_gradient&hide_border=false&layout=compact&langs_count=10)
-
-</div>
-
----
-
 ## 🎯 Exploit Development
 
 **Public CVE Exploits Published:**
