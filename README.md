@@ -111,13 +111,6 @@
 
 ---
 
-## 🔗 Connect
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/k.3ystr0k3r)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaredbrts175@gmail.com)
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=K3ysTr0K3R&style=flat-square&color=blue)
