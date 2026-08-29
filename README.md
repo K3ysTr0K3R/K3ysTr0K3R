@@ -7,19 +7,55 @@
 
 **Public CVE Exploits Published:**
 
-| CVE | Target | Type | Repo |
-|-----|--------|------|------|
-| CVE-2024-10914 | Multiple | RCE/Exploitation | [Exploit](https://github.com/K3ysTr0K3R) |
-| CVE-2024-4577 | PHP CGI | RCE | [Exploit](https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT) |
-| CVE-2024-25600 | WordPress Bricks Builder | RCE | [Exploit](https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT) |
-| CVE-2024-27198 | JetBrains TeamCity | Auth Bypass | [Exploit](https://github.com/K3ysTr0K3R/CVE-2024-27198-EXPLOIT) |
-| CVE-2023-43208 | Mirth Connect | RCE | [Exploit](https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT) |
-| CVE-2023-23752 | Joomla | Access Control | [Exploit](https://github.com/K3ysTr0K3R) |
-| CVE-2020-13945 | Apache APISIX | RCE | [Exploit](https://github.com/K3ysTr0K3R) |
-| CVE-2017-7921 | Hikvision Cameras | Auth Bypass | [Exploit](https://github.com/K3ysTr0K3R/CVE-2017-7921-EXPLOIT) |
-| CVE-2018-9995 | DVR Systems | Auth Bypass | [Exploit](https://github.com/K3ysTr0K3R/CVE-2018-9995-EXPLOIT) |
-| CVE-2017-5487 | WordPress | User Enumeration | [Exploit](https://github.com/K3ysTr0K3R) |
-| CVE-2021-4191 | GitLab | User Enumeration | [Exploit](https://github.com/K3ysTr0K3R) |
+| CVE            | Target                              | Type                                 | Repo                                                            |
+| -------------- | ----------------------------------- | ------------------------------------ | --------------------------------------------------------------- |
+| CVE-2026-39987 | Marimo                              | Pre-Auth RCE                         | [Exploit](https://github.com/K3ysTr0K3R/CVE-2026-39987)         |
+| CVE-2026-9198  | IBM Langflow OSS                    | Unauthenticated RCE                  | [Exploit](https://github.com/K3ysTr0K3R/CVE-2026-9198)          |
+| CVE-2026-34197 | Apache ActiveMQ / Jolokia           | RCE                                  | [Exploit](https://github.com/K3ysTr0K3R/CVE-2026-34197)         |
+| CVE-2026-31816 | Budibase                            | Auth Bypass → RCE                    | [Exploit](https://github.com/K3ysTr0K3R/CVE-2026-31816)         |
+| CVE-2026-48907 | Joomla JCE                          | Unauthenticated RCE                  | [Exploit](https://github.com/K3ysTr0K3R/CVE-2026-48907)         |
+| CVE-2026-24061 | GNU InetUtils telnetd               | Auth Bypass / RCE                    | [Exploit](https://github.com/K3ysTr0K3R/CVE-2026-24061)         |
+| CVE-2026-31431 | Linux Kernel AF_ALG                 | Local Privilege Escalation           | [Exploit](https://github.com/K3ysTr0K3R/CVE-2026-31431-EXPLOIT) |
+| CVE-2025-57819 | FreePBX                             | Unauthenticated RCE                  | [Exploit](https://github.com/K3ysTr0K3R/CVE-2025-57819)         |
+| CVE-2025-32463 | Sudo                                | Local Privilege Escalation           | [Exploit](https://github.com/K3ysTr0K3R/CVE-2025-32463-EXPLOIT) |
+| CVE-2024-10914 | D-Link NAS                          | RCE / Command Injection              | [Exploit](https://github.com/K3ysTr0K3R/CVE-2024-10914-EXPLOIT) |
+| CVE-2024-27198 | JetBrains TeamCity                  | Authentication Bypass                | [Exploit](https://github.com/K3ysTr0K3R/CVE-2024-27198-EXPLOIT) |
+| CVE-2024-25600 | WordPress Bricks Builder            | RCE                                  | [Exploit](https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT) |
+| CVE-2024-4577  | PHP CGI                             | RCE / Argument Injection             | [Exploit](https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT)  |
+| CVE-2024-3273  | D-Link Devices                      | RCE / Command Injection              | [Exploit](https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT)  |
+| CVE-2024-1561  | Gradio                              | Arbitrary File Read / Path Traversal | [Exploit](https://github.com/K3ysTr0K3R/CVE-2024-1561)          |
+| CVE-2023-51467 | Apache OFBiz                        | SSRF / Auth Bypass                   | [Exploit](https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT) |
+| CVE-2023-43208 | Mirth Connect                       | RCE                                  | [Exploit](https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT) |
+| CVE-2023-32315 | Openfire                            | Authentication Bypass                | [Exploit](https://github.com/K3ysTr0K3R/CVE-2023-32315-EXPLOIT) |
+| CVE-2023-23752 | Joomla                              | Improper Access Control              | [Exploit](https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT) |
+| CVE-2022-33891 | Apache Spark                        | Command Injection / RCE              | [Exploit](https://github.com/K3ysTr0K3R/CVE-2022-33891-EXPLOIT) |
+| CVE-2022-34753 | Schneider Electric SpaceLogic C-Bus | OS Command Injection                 | [Exploit](https://github.com/K3ysTr0K3R/CVE-2022-34753-EXPLOIT) |
+| CVE-2022-0543  | Redis                               | Lua Sandbox Escape / RCE             | [Exploit](https://github.com/K3ysTr0K3R/CVE-2022-0543)          |
+| CVE-2022-0165  | WordPress KingComposer              | Validation Bypass                    | [Exploit](https://github.com/K3ysTr0K3R/CVE-2022-0165-EXPLOIT)  |
+| CVE-2021-43798 | Grafana                             | Path Traversal / File Read           | [Exploit](https://github.com/K3ysTr0K3R/CVE-2021-43798-EXPLOIT) |
+| CVE-2021-42013 | Apache HTTP Server                  | Path Traversal / RCE                 | [Exploit](https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT) |
+| CVE-2021-22205 | GitLab                              | Unauthenticated RCE                  | [Exploit](https://github.com/K3ysTr0K3R/CVE-2021-22205)         |
+| CVE-2021-29441 | Nacos                               | Authentication Bypass                | [Exploit](https://github.com/K3ysTr0K3R/CVE-2021-29441)         |
+| CVE-2021-4191  | GitLab                              | User Enumeration                     | [Exploit](https://github.com/K3ysTr0K3R/CVE-2021-4191-EXPLOIT)  |
+| CVE-2021-34621 | WordPress                           | Privilege Escalation                 | [Exploit](https://github.com/K3ysTr0K3R/CVE-2021-34621-EXPLOIT) |
+| CVE-2021-22873 | Revive Adserver                     | Open Redirect                        | [Exploit](https://github.com/K3ysTr0K3R/CVE-2021-22873-EXPLOIT) |
+| CVE-2019-15107 | Webmin                              | RCE / Command Injection              | [Exploit](https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT) |
+| CVE-2019-17382 | Zabbix                              | Authentication Bypass                | [Exploit](https://github.com/K3ysTr0K3R/CVE-2019-17382-EXPLOIT) |
+| CVE-2018-18778 | ACME mini_httpd                     | Arbitrary File Read                  | [Exploit](https://github.com/K3ysTr0K3R/CVE-2018-18778)         |
+| CVE-2018-14847 | MikroTik RouterOS / WinBox          | Path Traversal / File Read           | [Exploit](https://github.com/K3ysTr0K3R/CVE-2018-14847-EXPLOIT) |
+| CVE-2018-10933 | libssh                              | Authentication Bypass                | [Exploit](https://github.com/K3ysTr0K3R/CVE-2018-10933)         |
+| CVE-2018-9995  | DVR Systems                         | Authentication Bypass                | [Exploit](https://github.com/K3ysTr0K3R/CVE-2018-9995-EXPLOIT)  |
+| CVE-2017-12615 | Apache Tomcat                       | RCE / Arbitrary JSP Upload           | [Exploit](https://github.com/K3ysTr0K3R/CVE-2017-12615)         |
+| CVE-2017-8225  | GoAhead Devices                     | Information Disclosure               | [Exploit](https://github.com/K3ysTr0K3R/CVE-2017-8225-EXPLOIT)  |
+| CVE-2017-7921  | Hikvision Cameras                   | Authentication Bypass                | [Exploit](https://github.com/K3ysTr0K3R/CVE-2017-7921-EXPLOIT)  |
+| CVE-2017-5487  | WordPress                           | User Enumeration                     | [Exploit](https://github.com/K3ysTr0K3R/CVE-2017-5487-EXPLOIT)  |
+| CVE-2015-2166  | Ericsson Drutt MSDP                 | Directory Traversal                  | [Exploit](https://github.com/K3ysTr0K3R/CVE-2015-2166-EXPLOIT)  |
+| CVE-2015-10141 | Xdebug                              | Unauthenticated RCE                  | [Exploit](https://github.com/K3ysTr0K3R/CVE-2015-10141)         |
+| CVE-2014-6271  | Bash                                | Remote Command Execution             | [Exploit](https://github.com/K3ysTr0K3R/CVE-2014-6271-EXPLOIT)  |
+| CVE-2012-2122  | MySQL                               | Authentication Bypass                | [Exploit](https://github.com/K3ysTr0K3R/CVE-2012-2122)          |
+| CVE-2012-1823  | PHP CGI                             | RCE / Argument Injection             | [Exploit](https://github.com/K3ysTr0K3R/CVE-2012-1823)          |
+| CVE-2010-4231  | Camtron / TecVoz IP Cameras         | Directory Traversal                  | [Exploit](https://github.com/K3ysTr0K3R/CVE-2010-4231-EXPLOIT)  |
+| CVE-2008-5862  | webcamXP                            | Directory Traversal                  | [Exploit](https://github.com/K3ysTr0K3R/CVE-2008-5862-EXPLOIT)  |
 
 ---
 
