@@ -75,3 +75,78 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=K3ysTr0K3R&style=flat-square&color=blue)
 
 </div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=K3ysTr0K3R&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=K3ysTr0K3R&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1" width="90%" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=K3ysTr0K3R&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/K3ysTr0K3R/K3ysTr0K3R/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%" />
+
+</div>
+
+---
+
+## ⏱️ Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=K3ysTr0K3R&layout=compact&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+## 👀 Profile Metrics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<img src="https://img.shields.io/github/followers/K3ysTr0K3R?style=for-the-badge&label=FOLLOWERS" />
+
+<img src="https://img.shields.io/github/stars/K3ysTr0K3R?style=for-the-badge&label=STARS" />
+
+</div>
+
