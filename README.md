@@ -88,51 +88,9 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=K3ysTr0K3R&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=K3ysTr0K3R&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1" width="90%" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=K3ysTr0K3R&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/K3ysTr0K3R/K3ysTr0K3R/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%" />
-
-</div>
-
----
-
-## ⏱️ Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=K3ysTr0K3R&layout=compact&hide_border=true" width="70%" />
 
 </div>
 
