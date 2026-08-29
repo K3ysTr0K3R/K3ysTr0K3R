@@ -113,24 +113,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=K3ysTr0K3R&style=flat-square&color=blue)
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=K3ysTr0K3R&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/K3ysTr0K3R/K3ysTr0K3R/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%" />
 
 </div>
