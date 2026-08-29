@@ -11,7 +11,6 @@
 | ------------------------------------------------------ | ------------------------------ | -------------- | -------------------------- | ------------------------------------------------- |
 | [EDB-52645](https://www.exploit-db.com/exploits/52645) | Joomla JCE 2.9.15              | CVE-2026-48907 | Unauthenticated RCE        | [View](https://www.exploit-db.com/exploits/52645) |
 | [EDB-52643](https://www.exploit-db.com/exploits/52643) | D-Link DNS_340L                | CVE-2024-10914 | OS Command Injection / RCE | [View](https://www.exploit-db.com/exploits/52643) |
-| [EDB-52630](https://www.exploit-db.com/exploits/52630) | Joomla JCE 2.9.99.4            | CVE-2026-48907 | Unauthenticated RCE        | [View](https://www.exploit-db.com/exploits/52630) |
 | [EDB-52619](https://www.exploit-db.com/exploits/52619) | WordPress Bricks Builder Theme | CVE-2024-25600 | Unauthenticated RCE        | [View](https://www.exploit-db.com/exploits/52619) |
 
 ---
