@@ -118,16 +118,3 @@
 </div>
 
 ---
-
-## 👀 Profile Metrics
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=K3ysTr0K3R&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<img src="https://img.shields.io/github/followers/K3ysTr0K3R?style=for-the-badge&label=FOLLOWERS" />
-
-<img src="https://img.shields.io/github/stars/K3ysTr0K3R?style=for-the-badge&label=STARS" />
-
-</div>
-
