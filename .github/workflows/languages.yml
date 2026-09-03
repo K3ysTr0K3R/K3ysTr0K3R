@@ -10,16 +10,22 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  language-stats:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
       - name: Generate language statistics
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
         run: |
           mkdir -p profile
 
@@ -28,19 +34,28 @@ jobs:
           import os
           import subprocess
           from collections import Counter
+          from html import escape
 
-          username = os.environ["GITHUB_REPOSITORY_OWNER"]
+          username = os.environ["USERNAME"]
 
-          repos = subprocess.check_output(
+          # Get repositories
+          result = subprocess.run(
               [
-                  "gh", "repo", "list", username,
-                  "--limit", "100",
-                  "--json", "name,isFork"
+                  "gh",
+                  "repo",
+                  "list",
+                  username,
+                  "--limit",
+                  "100",
+                  "--json",
+                  "name,isFork"
               ],
-              text=True
+              capture_output=True,
+              text=True,
+              check=True
           )
 
-          repositories = json.loads(repos)
+          repositories = json.loads(result.stdout)
 
           languages = Counter()
 
@@ -51,23 +66,26 @@ jobs:
               name = repo["name"]
 
               try:
-                  output = subprocess.check_output(
+                  result = subprocess.run(
                       [
-                          "gh", "api",
+                          "gh",
+                          "api",
                           f"repos/{username}/{name}/languages"
                       ],
-                      text=True
+                      capture_output=True,
+                      text=True,
+                      check=True
                   )
 
-                  data = json.loads(output)
+                  data = json.loads(result.stdout)
 
-                  for language, bytes_count in data.items():
-                      languages[language] += bytes_count
+                  for language, byte_count in data.items():
+                      languages[language] += byte_count
 
               except subprocess.CalledProcessError:
-                  continue
+                  print(f"Skipping {name}")
 
-          # Ignore generated/vendor languages if desired
+          # Remove languages that shouldn't appear in the graph.
           ignored = {
               "Jupyter Notebook"
           }
@@ -75,87 +93,134 @@ jobs:
           for language in ignored:
               languages.pop(language, None)
 
-          top = languages.most_common(8)
+          top_languages = languages.most_common(8)
 
           total = sum(languages.values())
 
           width = 900
-          height = 420
+          height = 430
 
-          rows = []
-
-          for language, amount in top:
-              percentage = (amount / total * 100) if total else 0
-
-              rows.append(
-                  (language, percentage)
-              )
-
-          # SVG
-          svg = f'''<svg xmlns="http://www.w3.org/2000/svg"
+          svg = f'''<?xml version="1.0" encoding="UTF-8"?>
+          <svg
+              xmlns="http://www.w3.org/2000/svg"
               width="{width}"
               height="{height}"
               viewBox="0 0 {width} {height}">
-            <rect width="100%" height="100%" rx="16"
-                  fill="#0d1117"/>
 
-            <text x="40" y="55"
-                  fill="#ffffff"
-                  font-family="Arial, sans-serif"
-                  font-size="24"
-                  font-weight="bold">
+            <rect
+              width="100%"
+              height="100%"
+              rx="18"
+              fill="#0d1117"/>
+
+            <text
+              x="40"
+              y="55"
+              fill="#ffffff"
+              font-family="Arial, Helvetica, sans-serif"
+              font-size="26"
+              font-weight="bold">
               Top Languages
             </text>
           '''
 
           y = 105
 
-          for language, percentage in rows:
-              bar_width = max(5, percentage * 7)
+          for language, byte_count in top_languages:
+              percentage = (
+                  byte_count / total * 100
+                  if total
+                  else 0
+              )
+
+              bar_width = max(
+                  5,
+                  min(560, percentage * 7)
+              )
+
+              safe_language = escape(language)
 
               svg += f'''
-            <text x="40" y="{y}"
-                  fill="#c9d1d9"
-                  font-family="Arial, sans-serif"
-                  font-size="16">
-              {language}
+            <text
+              x="40"
+              y="{y}"
+              fill="#c9d1d9"
+              font-family="Arial, Helvetica, sans-serif"
+              font-size="17">
+              {safe_language}
             </text>
 
-            <rect x="190" y="{y - 16}"
-                  width="560"
-                  height="14"
-                  rx="7"
-                  fill="#21262d"/>
+            <rect
+              x="190"
+              y="{y - 17}"
+              width="560"
+              height="15"
+              rx="7"
+              fill="#21262d"/>
 
-            <rect x="190" y="{y - 16}"
-                  width="{bar_width}"
-                  height="14"
-                  rx="7"
-                  fill="#58a6ff"/>
+            <rect
+              x="190"
+              y="{y - 17}"
+              width="{bar_width}"
+              height="15"
+              rx="7"
+              fill="#58a6ff"/>
 
-            <text x="780" y="{y}"
-                  fill="#8b949e"
-                  font-family="Arial, sans-serif"
-                  font-size="15">
+            <text
+              x="780"
+              y="{y}"
+              fill="#8b949e"
+              font-family="Arial, Helvetica, sans-serif"
+              font-size="16">
               {percentage:.1f}%
             </text>
-              '''
+          '''
 
-              y += 38
+              y += 40
 
           svg += '''
           </svg>
           '''
 
-          with open("profile/top-langs.svg", "w", encoding="utf-8") as f:
+          with open(
+              "profile/top-langs.svg",
+              "w",
+              encoding="utf-8"
+          ) as f:
               f.write(svg)
 
-          print("Generated language statistics:")
-          for language, percentage in rows:
-              print(f"  {language}: {percentage:.1f}%")
+          print("\nLanguage statistics:")
+          print("====================")
+
+          for language, byte_count in top_languages:
+              percentage = (
+                  byte_count / total * 100
+                  if total
+                  else 0
+              )
+
+              print(
+                  f"{language}: "
+                  f"{percentage:.1f}%"
+              )
           PY
 
-      - name: Commit language statistics
+      - name: Verify SVG
+        run: |
+          echo "Generated SVG:"
+          ls -lh profile/top-langs.svg
+
+          echo
+          echo "File size:"
+          wc -c profile/top-langs.svg
+
+          echo
+          echo "First lines:"
+          head -n 5 profile/top-langs.svg
+
+          test -s profile/top-langs.svg
+
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -163,7 +228,7 @@ jobs:
           git add profile/top-langs.svg
 
           if git diff --cached --quiet; then
-            echo "No changes to language statistics."
+            echo "No changes."
           else
             git commit -m "chore: update language statistics"
             git push
