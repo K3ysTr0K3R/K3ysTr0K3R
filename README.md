@@ -96,22 +96,19 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-<img
-  src="./profile/top-langs.svg"
-  alt="Top Languages"
-  width="450"
-/>
-
-<br><br>
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 </div>
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=K3ysTr0K3R&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=K3ysTr0K3R&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=K3ysTr0K3R&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
