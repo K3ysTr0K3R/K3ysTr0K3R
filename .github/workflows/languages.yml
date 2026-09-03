@@ -6,33 +6,163 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate language statistics
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=donut&langs_count=8&theme=dark&hide_border=true
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p profile
 
-      - name: Commit updated statistics
+          python3 <<'PY'
+          import json
+          import os
+          import subprocess
+          from collections import Counter
+
+          username = os.environ["GITHUB_REPOSITORY_OWNER"]
+
+          repos = subprocess.check_output(
+              [
+                  "gh", "repo", "list", username,
+                  "--limit", "100",
+                  "--json", "name,isFork"
+              ],
+              text=True
+          )
+
+          repositories = json.loads(repos)
+
+          languages = Counter()
+
+          for repo in repositories:
+              if repo["isFork"]:
+                  continue
+
+              name = repo["name"]
+
+              try:
+                  output = subprocess.check_output(
+                      [
+                          "gh", "api",
+                          f"repos/{username}/{name}/languages"
+                      ],
+                      text=True
+                  )
+
+                  data = json.loads(output)
+
+                  for language, bytes_count in data.items():
+                      languages[language] += bytes_count
+
+              except subprocess.CalledProcessError:
+                  continue
+
+          # Ignore generated/vendor languages if desired
+          ignored = {
+              "Jupyter Notebook"
+          }
+
+          for language in ignored:
+              languages.pop(language, None)
+
+          top = languages.most_common(8)
+
+          total = sum(languages.values())
+
+          width = 900
+          height = 420
+
+          rows = []
+
+          for language, amount in top:
+              percentage = (amount / total * 100) if total else 0
+
+              rows.append(
+                  (language, percentage)
+              )
+
+          # SVG
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg"
+              width="{width}"
+              height="{height}"
+              viewBox="0 0 {width} {height}">
+            <rect width="100%" height="100%" rx="16"
+                  fill="#0d1117"/>
+
+            <text x="40" y="55"
+                  fill="#ffffff"
+                  font-family="Arial, sans-serif"
+                  font-size="24"
+                  font-weight="bold">
+              Top Languages
+            </text>
+          '''
+
+          y = 105
+
+          for language, percentage in rows:
+              bar_width = max(5, percentage * 7)
+
+              svg += f'''
+            <text x="40" y="{y}"
+                  fill="#c9d1d9"
+                  font-family="Arial, sans-serif"
+                  font-size="16">
+              {language}
+            </text>
+
+            <rect x="190" y="{y - 16}"
+                  width="560"
+                  height="14"
+                  rx="7"
+                  fill="#21262d"/>
+
+            <rect x="190" y="{y - 16}"
+                  width="{bar_width}"
+                  height="14"
+                  rx="7"
+                  fill="#58a6ff"/>
+
+            <text x="780" y="{y}"
+                  fill="#8b949e"
+                  font-family="Arial, sans-serif"
+                  font-size="15">
+              {percentage:.1f}%
+            </text>
+              '''
+
+              y += 38
+
+          svg += '''
+          </svg>
+          '''
+
+          with open("profile/top-langs.svg", "w", encoding="utf-8") as f:
+              f.write(svg)
+
+          print("Generated language statistics:")
+          for language, percentage in rows:
+              print(f"  {language}: {percentage:.1f}%")
+          PY
+
+      - name: Commit language statistics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add profile/top-langs.svg
 
-          if git diff --staged --quiet; then
+          if git diff --cached --quiet; then
             echo "No changes to language statistics."
           else
             git commit -m "chore: update language statistics"
