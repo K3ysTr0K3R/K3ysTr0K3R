@@ -101,7 +101,7 @@
 <img
   src="./profile/top-langs.svg"
   alt="Top Languages"
-  width="700"
+  width="450"
 />
 
 <br><br>
