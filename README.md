@@ -98,7 +98,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=donut&theme=dark&hide_border=true&langs_count=8" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=compact&theme=dark&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
 
 </div>
 
