@@ -98,13 +98,13 @@
 
 <div align="center">
 
-<img src="./profile/top-langs.svg" alt="Top Languages" width="450" />
+<img
+  src="./profile/top-langs.svg"
+  alt="Top Languages"
+  width="700"
+/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
