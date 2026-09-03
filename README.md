@@ -96,10 +96,22 @@
 
 ## 💻 Tech Stack
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3ysTr0K3R&layout=donut&theme=dark&hide_border=true&langs_count=8" width="400" />
+
+</div>
+
+<br>
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+</div>
 
 ---
 
