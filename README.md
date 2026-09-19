@@ -1,9 +1,9 @@
-<h1 align="center">🛡️ K3ysTr0K3R</h1>
+<h1 align="center">K3ysTr0K3R</h1>
 <p align="center">Cybersecurity Researcher • Exploit Developer • Vulnerability Research</p>
 
 ---
 
-## 📚 Exploit-DB Publications
+## Exploit-DB Publications
 
 **Public exploits published to Exploit-DB:**
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 Exploit Development
+## Exploit Development
 
 **Public CVE Exploits Published:**
 
@@ -72,48 +72,49 @@
 
 ---
 
-## 🛠️ Offensive Security Tools
+## Offensive Security Tools
 
-| Tool | Description | Features | Repo |
-|------|-------------|----------|------|
-| **LiquidNet** | IPv4 grabber/scanner for gathering targets globally | Global IPv4 collection, Network scanning, Pentesting support, Ethical hacking framework | [Link](https://github.com/K3ysTr0K3R/LiquidNet) |
-| **Webanator** | Advanced webcam scraper with cutting-edge algorithms | Real-time extraction, Global coverage, Advanced algorithms, Multi-country support | [Link](https://github.com/K3ysTr0K3R/Webanator) |
-| **Nuclei Templates** | Custom templates for automated vulnerability scanning | Vulnerability detection, Automation, Customizable scans | [Link](https://github.com/K3ysTr0K3R) |
-| **Subdomain Enumeration** | Fast Python-based subdomain scanner for reconnaissance | Python-powered, Fast scanning, Reconnaissance, Target enumeration | [Link](https://github.com/K3ysTr0K3R) |
-| **Metasploit Modules** | Custom modules for penetration testing | Exploitation, Pentesting, Framework integration | [Link](https://github.com/K3ysTr0K3R) |
-
----
-
-## 🔬 Vulnerability Categories Covered
-
-- 🔐 **Authentication Bypasses** — CVE-2017-7921, CVE-2018-9995, CVE-2024-27198
-- 💥 **Remote Code Execution** — CVE-2024-4577, CVE-2023-43208, CVE-2020-13945
-- 📤 **Information Disclosure** — CVE-2017-5487, CVE-2021-4191
-- 🚨 **Access Control Issues** — CVE-2023-23752
-- 🔧 **Web Framework Exploits** — WordPress, Joomla, Apache
-- 🎥 **IoT & Hardware** — Cameras, Routers, DVR Systems
+| Tool                      | Description                                            | Features                                                                                | Repo                                            |
+| ------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| **LiquidNet**             | IPv4 grabber/scanner for gathering targets globally    | Global IPv4 collection, Network scanning, Pentesting support, Ethical hacking framework | [Link](https://github.com/K3ysTr0K3R/LiquidNet) |
+| **Webanator**             | Advanced webcam scraper with cutting-edge algorithms   | Real-time extraction, Global coverage, Advanced algorithms, Multi-country support       | [Link](https://github.com/K3ysTr0K3R/Webanator) |
+| **Nuclei Templates**      | Custom templates for automated vulnerability scanning  | Vulnerability detection, Automation, Customizable scans                                 | [Link](https://github.com/K3ysTr0K3R)           |
+| **Subdomain Enumeration** | Fast Python-based subdomain scanner for reconnaissance | Python-powered, Fast scanning, Reconnaissance, Target enumeration                       | [Link](https://github.com/K3ysTr0K3R)           |
+| **Metasploit Modules**    | Custom modules for penetration testing                 | Exploitation, Pentesting, Framework integration                                         | [Link](https://github.com/K3ysTr0K3R)           |
 
 ---
 
-## 💻 Tech Stack
+## Vulnerability Categories Covered
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+* **Authentication Bypasses** — CVE-2017-7921, CVE-2018-9995, CVE-2024-27198
+* **Remote Code Execution** — CVE-2024-4577, CVE-2023-43208, CVE-2020-13945
+* **Information Disclosure** — CVE-2017-5487, CVE-2021-4191
+* **Access Control Issues** — CVE-2023-23752
+* **Web Framework Exploits** — WordPress, Joomla, Apache
+* **IoT & Hardware** — Cameras, Routers, DVR Systems
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge\&logo=ruby\&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=K3ysTr0K3R&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=K3ysTr0K3R&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=K3ysTr0K3R&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=K3ysTr0K3R\&theme=radical\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=K3ysTr0K3R\&theme=radical\&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=K3ysTr0K3R\&theme=radical\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Contribution Graph" width="600" />
